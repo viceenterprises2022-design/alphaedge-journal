@@ -8,7 +8,6 @@ const TradeDialog = () => {
   const [dir, setDir] = useTD('BUY');
   const { all: allStrategies } = window.useStrategies();
   const [strategy, setStrategy] = useTD('vwap');
-  const [strategy, setStrategy] = useTD('vwap');
   const [step, setStep] = useTD(1); // 1 = trade details, 2 = playbook review
   const [rulesFollowed, setRulesFollowed] = useTD({});
   const [mistakesMade, setMistakesMade] = useTD({});
