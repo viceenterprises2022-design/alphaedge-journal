@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AlphaEdge Journal — App kit</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = {
+  theme: {
+    extend: {
+      colors: {
+        primary: '#fbfaf9',
+        darkPrimary: '#e8e7e5',
+        secondary: '#f4f1ee',
+        tertiary: '#6e747c',
+        claude: '#da7756',
+        claudeBackground: 'rgba(218,119,86,0.1)',
+        buy: '#76b562',
+        buyOpacity: 'rgba(118,181,98,0.4)',
+        buyLight: 'rgba(118,181,98,0.2)',
+        sell: '#e96a5e',
+        sellOpacity: 'rgba(233,106,94,0.4)',
+        sellLight: 'rgba(233,106,94,0.2)',
+        customBlue: '#9999ff',
+        customOrange: '#e16540',
+        customYellow: '#fac666',
+      }
+    }
+  }
+}
+</script>
+<style>
+  html, body { font-family: Arial, Helvetica, sans-serif; color: #3d3929; background: #e8e7e5; font-size: 14px; margin:0; }
+  .font-display { font-family: "Geist", Arial, sans-serif; }
+  .font-mono-display { font-family: "Geist Mono", ui-monospace, monospace; font-variant-numeric: tabular-nums; }
+  p { font-size: 0.8rem; }
+  .button-shadow { background-color: rgb(58, 53, 50); box-shadow: rgba(45,32,17,0.12) 0 0.5px 0.5px 0, rgba(45,32,17,0.24) 0 1px 2px 0, rgba(45,32,17,0.32) 0 2px 4px 0, rgba(45,32,17,0.4) 0 6px 12px -3px, #000 0 -0.2px 0 0 inset; cursor:pointer; }
+  .button-shadow-white { background-color: #fff; box-shadow: 0 0 0 1px #efede8, 0 1px 2px #b2aa9e52, 0 3px 3px #d1cdc73d, 0 -2px #f0f0efb3 inset; cursor:pointer; }
+  .calendar-banner-shadow { box-shadow: rgba(30,45,82,0.06) 0 0 0.4px 0.4px, rgba(30,45,82,0.2) 0.4px 0.4px 0.4px 0; }
+  .switch-btn { border-radius:4px; background:hsl(38,22%,94%); width:56px; height:28px; position:relative; cursor:pointer; transition: box-shadow .45s cubic-bezier(.6,.6,0,1); box-shadow: 0 0 0 1px #70451a3d, 0 1px 2px #70451a0d, 2px 3px 5px #70451a29, 4px 6px 5px #70451a14, 8px 12px 8px #70451a14, 8px 0 0.5px #70451a33 inset, 10px 0 4px -6px #70451a33 inset; }
+  .switch-btn::before { content:""; position:absolute; top:0; left:0; width:48px; height:28px; border-radius:4px; transform: translate(8px); background: linear-gradient(270deg, #ebe7e0 0%, #ebe7e0 49.89%, #fbfaf9 53.59%), #fbfaf9; box-shadow:-1px 1px 1px #ffffff52 inset; transition: transform .45s cubic-bezier(.6,.6,0,1); }
+  .switch-btn.active::before { transform: translate(0); }
+  .dot { width:8px; height:8px; border-radius:50%; background:#3d3929; display:inline-block; animation: bounce 1.2s infinite ease-in-out; }
+  @keyframes bounce { 0%,80%,100% { transform: translateY(0); opacity: 0.4; } 40% { transform: translateY(-6px); opacity: 1; } }
+  .sidebar-item { padding: 8px 12px; border-radius: 8px; cursor:pointer; display:flex; gap:10px; align-items:center; color:#3d3929; font-size:13px; }
+  .sidebar-item:hover { background:#f4f1ee; }
+  .sidebar-item.active { background:#fff; box-shadow: 0 1px 2px rgba(0,0,0,0.04); }
+  .tab { padding: 6px 14px; border-radius: 8px; cursor:pointer; font-size:13px; color:#6e747c; }
+  .tab.active { background:#fff; color:#3d3929; box-shadow: 0 1px 2px rgba(0,0,0,0.04); }
+</style>
+
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="root"></div>
+
+<script type="text/babel" src="../marketing/Icons.jsx"></script>
+<script type="text/babel" src="./Shell.jsx"></script>
+<script type="text/babel" src="./Calendar.jsx"></script>
+<script type="text/babel" src="./Statistics.jsx"></script>
+<script type="text/babel" src="./bible/BibleData.jsx"></script>
+<script type="text/babel" src="./bible/BibleStrategies.jsx"></script>
+<script type="text/babel" src="./bible/BibleDiagrams.jsx"></script>
+<script type="text/babel" src="./bible/StrategyStore.jsx"></script>
+<script type="text/babel" src="./bible/StrategyEditor.jsx"></script>
+<script type="text/babel" src="./bible/Playbook.jsx"></script>
+<script type="text/babel" src="./Strategies.jsx"></script>
+<script type="text/babel" src="./TradeAI.jsx"></script>
+<script type="text/babel" src="./Journal.jsx"></script>
+<script type="text/babel" src="./TradeDialog.jsx"></script>
+<script type="text/babel" src="./App.jsx"></script>
+</body>
+</html>

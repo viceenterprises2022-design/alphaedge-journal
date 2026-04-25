@@ -1,0 +1,1041 @@
+
+
+===== Index =====
+A1: INDEX 
+A2: Sr.No. | B2: Name of Topic 
+A4: 1.0 | B4: Affirmations & Goals
+A5: 2.0 | B5: Preamble for Trading
+A6: 3.0 | B6: Preperationfor Trading
+A7: 4.0 | B7: Executionof Trade
+A8: 5.0 | B8: Mindset Management 
+A9: 6.0 | B9: Trading Discipline
+A10: 7.0 | B10: Trading Rules / Expiry Day Rules
+A11: 8.0 | B11: Traders Mistakes
+A12: 9.0 | B12: Trading Setup
+A13: 10.0 | B13: Thakare Sir Price - Action Knowledge
+A14: 11.0 | B14: BankNifty Trading Strategies
+A15: 14
+A16: 15
+A17: 16
+A18: 17
+A19: 18
+A20: 19
+A21: 20
+A22: 21
+A23: 12.0 | B23: Budget
+
+
+===== Trading Affirmations =====
+A1: TRADING AFFIRMATIONS
+A2: Sr.No. | B2: Particulars
+A4: 1.0 | B4: I am an Intelligent Trader.
+A5: 2.0 | B5: I deserve to make a lot of Money.
+A6: 3.0 | B6: I follow all Trading Rules to make money.
+A7: 4.0 | B7: I follow Risk Management for every Trade I take.
+A8: 5.0 | B8: I am Fearless and Graceful in admitting my defect.
+A9: 6.0 | B9: I am Humble to my Victories.
+A10: 7.0 | B10: My Confidence in Trading growing each day.
+A11: 8.0 | B11: I attract lot of Trading Opportunities.
+A12: 9.0 | B12: I enjoy Freedom of Time in my Trading Profession.
+A13: 10.0 | B13: I am a Complete Trader.
+A14: 11.0 | B14: I strictly follow Stop Loss for Each Trade by Max 20-25 Points. This is the Main Thumb Rule to earn from Stock Market.
+A15: 12.0 | B15: I follow Daily Trading Journal & analyse Mistakes done. And let try to not happen said Mistakes again.
+A16: 13.0 | B16: To have Successful Trader is not that easy. As each and everyday you have to fight within.
+A17: 14.0 | B17: Money Management, Psychology, Risk Management, Setups you have to focus on that is why 90% of people in the market loose money. And rest 5% get to live their dream life.
+A20: TRADING GOALS
+A21: Sr.No. | B21: Particulars
+A23: 1.0 | B23: I want to have Freedom of Money.
+A24: 2.0 | B24: I want to Have Freedom of Time  (Just 5 Hrs a day & 5 Days a Week).
+A25: 3.0 | B25: I need to make 1% a day.
+A26: 4.0 | B26: I have to Maintain Trading Journal & Analyse Mistakes made, so next time same mistake should not happen.
+
+
+===== Preamble =====
+A1: PREAMBLE FOR TRADING
+A2: Sr. No | B2: Particulars
+A3: 1.0 | B3: In initail days of his Trading we made big losses in span of 2 years in Crores i.e from June 2020 to May 2022. Also we seen all ups & downs in Market, seen situation when account gets bolwn down. But meanwhile we became very good Chart Reader along with Trader in BankNifty, but losses are not going to reduce. Why ? Because there was no method to the madness of Trading.
+A4: 2.0 | B4: There are so simple strategies, nothing is big there from which you can make lot of money and they are dam simple. You just make things very complicated and trap in losses. But Promisse to use Mind & Discipline in Trading then you can make Crores. And get out of all your losses and can make big money also.
+A5: 3.0 | B5: If anybody is Trading in Market then he should not loose money. Because everybody has hard earned money. And if wrongly traded this hard earned money goes in minutes of some clicks in system. And this affects so much that it concerns, mental state thinking, state of mind, family, kids every thing it affects. And then we realise how big thing it is and how easily we take wrong trades and loose all.  You should understand that its a big battle and big forces are in front of you which are actually not visible to you behind screen & you are just a svery small in front of them. 
+A6: 4.0 | B6: The game of speculation is the most uniformly fascinating game in the world. But it is not a game for the stupid, the mentally lazy, the person of inferior emotional balance, or the get-rich-quick adventurer. They will die poor. 
+A7: 5.0 | B7: Actual Wealth create from Investing rater than Trading. 
+A8: 6.0 | B8: Probaility, Probability & Probability !!! & Absolutely No Certainity…
+A9: 52
+A10: 53
+A11: 54
+A12: 55
+A13: 56
+A14: 57
+A15: 58
+A16: 7.0 | B16: Some Very Important TakeAways - 
+A17: 60
+A18: 61
+A19: 62
+
+
+===== Preperation =====
+A1: PREPERATION FO TRADING
+A2: Sr. No | B2: Particulars
+A3: 1.0 | B3: Journey of Tortoise is slow & steady but SURE. So Trading also should be Slow & Steady.
+A4: 2.0 | B4: Inspiration - 
+I covered my 8 figure loss by following following 4 things in Market.  And making consistency of Profit and earned 8 figures Profits too.
+In Trading for Success you have to become Mr. Cool
+A5: 3.0 | B5: Meditation Helps a Lot - 
+I do Every morning before Trading - Meditation for good mental health for 20 min. (It gives help to clearing RAM.
+So Be cool and Trade with Shanti se. When you will do achieve it. Success will be behind you.
+A6: 4.0 | B6: Rules & Unruly Exceptions - 
+A7: 68
+A8: 69
+A9: 70
+A10: 71
+A11: 72
+A12: 5.0 | B12: Personality & your own Rules - 
+A13: 74
+A14: 75
+A15: 76
+A16: 77
+A17: 78
+A18: 6.0 | B18: Capital, Risk Management  & Stop Loss…
+A19: 80
+A20: 81
+A21: 82
+A22: 83
+A23: 84
+A24: 85
+A25: 86
+A26: 87
+A27: 88
+A28: 89
+A29: 90
+A30: 91
+A31: 92
+A32: 93
+A33: 7.0 | B33: Turn Around of Journey from Loss to Profit - 
+Workout daily Net Profit for month. And analyse that on Average I get 20k a day. But in initial Trades on day I got 35k on average, but due to Over Trading or more Trading I use to make big profits on some day and some day big losses and end result is Average monthly daily income is 25k only. Then thought that when I am getting 40k in initial trade by 10.30 am, then what I made by devoting full time trading, kept capital at risk and stress. Rather than I had closed my system after taking 40k my daily average will be 40k which is Stress Free and without much devoting more time in Market. 
+Its the learning...
+Then I realise that something have to do. That time I had been in loss of 8 figures. Then I developed some system of Trading. That I call it as DT System (Day Trading System)
+
+A34: 8.0 | B34: What is DT System - 
+A35: 96
+A36: 97
+A37: 98
+A38: 99
+A39: 100
+A40: 101
+A41: 102
+A42: 9.0 | B42: Why DT system - 
+A43: 104
+A44: 105
+A45: 106
+A46: 107
+A47: 108
+A48: 109
+A49: 110
+A50: 111
+A51: 112
+A52: 113
+A53: 114
+A54: 10.0 | B54: Setups – Simplicity, Multiplicity & Evolution !!
+A55: 116
+A56: 117
+A57: 118
+A58: 119
+A59: 120
+A60: 121
+A61: 122
+A62: 123
+A63: 124
+A64: 125
+A65: 126
+A66: 127
+A67: 128
+A68: 129
+
+
+===== Execution =====
+A1: EXECUTION OF TRADING
+A2: Sr. No | B2: Particulars
+A3: 1.0 | B3: Before Start Trading  - Always Plan Trade like - I am doing a Fresh Start From Today. I have to follow all Discipline / Rules / Setups / Money Management / Risk Management etc. Then daily planned target follow to achive and weekly and monthly and so on. 
+A4: 2.0 | B4: Take actual Trade only & only on your Setup.
+A5: 3.0 | B5: Keep actual SL in system once trade taken (you can keep SL of 25-30 points in system if you are planning for SL of 20 Points)
+A6: 4.0 | B6: While taking Trade you should be mentally aware that of how much amount of risk we are taking for the said trade in monatory terms. (SL points * Quantity Traded)
+A7: 5.0 | B7: Without any SL you are making trading and without Setup, and how much loss scope in Trade we not think then 100% you will blown your account.
+A8: 6.0 | B8: Real losses happen - In keeping Mental Stop Losses, Because its always in greed of recovery increses and gives big losses. So be like Algo in Trading and take small small losses.
+A9: 7.0 | B9: Quantity to Trade - 
+Trade with 1k to 3k Quantity with Pyramiding in Buying & Selling.
+A10: 8.0 | B10: Maximum SL - 
+On any day our Loss should not be more than 50k or Last days Profit. This is maximum SL that we have.
+If we make loss bigger than this amount specified, then there is no success. Understand it.
+A11: 9.0 | B11: Loss is in our Hand Only - 
+Exiting from loss is always in our hand. Keep this point in mind very clear. As if big loss happen is only because of us. So keep ourself alert to exit @ SL strictly. So we know our maximum risk in amount and we can wait and enter new trade which will going to recover all losses.
+A12: 10.0 | B12: Taking Break while Trading is Must - 
+Taking quick break of 3-5 minutes after every 30-45 minutes of Trading is must, as it clear our biased Trading memory and style.
+A13: 11.0 | B13: Number of Trades - 
+Develop habit of taking only 40-50 Trades a day.
+It will help us to - 
+Take Trade on Opportunity & Setup only.
+Not to Over Trading
+Control Brokerage Expenses
+
+
+A14: 12.0 | B14: Why no Trading Full Day - 
+As with this full day staying in Trade leads to Stressful mindset, It hampers our decision making capability. And wont able to follow all Rules as defined of SL etc. 
+Mind get sick & start to Trade on every candle. Which is called Over Trading. And its clear that Over Trading leads to losses .... big losses. 
+So Trade only when it comes o our Setup and trade that momentum. So our Trade should not be more than 3-5 minute long. 
+So in Trading, for taking trade we may have to wait with Patience for hour for Trade of 3-5 minutes. But this always gives us Profit... Handsome Profit / Assured Profit.
+A15: 13.0 | B15: How to Know CE / PE to Take - CE Or PE Which Are Above VWAP. See on 5 Min Candle and make Trade corresponding CE ot PE.
+Trend Line - We should draw Trend Line in Running Market on 3-5 Min Chart continuously. So that we can easily take timely decision to enter Ce or PE. In addition to breakout, various other things such as VWAP, SuperTrend, Ema all can give us confirmations for Trade and confirmation for Exit Trade.
+A16: 14.0 | B16: Few take aways - 
+- Be consistent
+- Loose small
+- Wait for good entry
+- Trail with 20-30 points SL whether it is loss or profit.
+- Try to be in sync with the market
+- Use multiple accounts to diversify the risk.
+- Expectations to be little and survival to be longer.
+
+
+
+
+===== Mindset Management =====
+A1: MINDSET MANAGEMENT FOR TRADING
+A2: Sr. No | B2: Particulars
+A3: 1.0 | B3: Very Important - 
+If Our Mind is Relax...... We are in Open Mindset.....We are Confident..... In Positive mindset..... In Energetic Mindset..... Our health is Good..... Our Vision is Clear of Earning Daily Slow and Steady..... Our Mind is Ready to Follow Set of Rules... Our Mind is clear that not to Trade on Every Candle / No Over Traidng ... Then you always get good Trades and Profits.
+A4: 2.0 | B4: Value of Money / Importance of Money - 
+Those who have money it is very easy to say that there are things which are  much more than money.
+For those who struggle daily for money, money become huge achievement or big dream of them.
+Decide Today I will close in Green only. 
+Even 10k-15k Earning is also a very handsome amount. Which business gives in a day such Handsome Income. 
+A5: 3.0 | B5: Always believe in Process -  
+Its history that successful peoples do set Process & Thought. And they follow it thoroughly and today they all are billionarie & millions of peoples follow them.
+A6: 4.0 | B6: Sometimes you have to disassociate yourself from everything to bring yourself in State to Think. Then only you can realise that having any Strategy is not important. You should have Very Sound & Developed Psychology also. Having the knowledge and adoptness of it in continuously is very important.
+A7: 5.0 | B7: Emotion - 
+We are a human, Emotional things are running in mind. Also lot of factors are running in mind like family, office issues etc. Then you can not consistently perform in Market and ultimately loss of capital and loss of your hard earned money. So finally you should arrive at conclusion that Psychology, Discipline & Execution is very important factor in Trading journey.
+But if you Promisse to use Proper Mindset & Proper Discipline in Trading then you can make Crores.
+A8: 6.0 | B8: The Holy Grail !!
+“The key to Trading success is emotional discipline. 
+If intelligence were the key, there would be a lot more people making money trading…”
+A9: 7.0 | B9: You have to become like Algo... Why algo are better than you - 
+Because Algos does not have Emotions. It works on Discipline. It will buy at his Level and Sale at his Level (without any emotional base), Also it has no any Greed. 
+So its Turtle's approach. So take Our Trade with our Mindset & our approach. 
+A10: 8.0 | B10: What Mindset we have to made is - 
+Disclipline Bhagwan che !!
+Mindset Mangement
+Preparation 
+Execution
+A11: 9.0 | B11: What Tortoise do.... he goes slowly slowly on his route... he not see anywhere, here and there what happening, he is just going slowly and stedily as per his Strategy and win the battle.   
+Discipline - Because there was no Discilpine so I lost 8 figures amount. And after following it I made again 8 Figure loss to Profit.
+Mindset Management - Our main instrument in Trading is "MIND". So we should develop mind as required for Trading. We go to gym to build muscle, like same you have to develop mindset also. 
+Preperation - Prepare yourself one day before Trading day properly like RIGHT PREPERATION. And improve preperation style as per your result what you get in Market.
+Execution - Proper timely execution Trade is the most important factor in Trading. 
+A12: 10.0 | B12: Importance of Yoga - 
+As machine require Overhauling then it can work longer and longer. So brain should also have in Trading system, mindset in our brains wiring. So practice require to keep these tings in Wiring. 
+So to put something in wiring, you should be cool, relax, no any stress to be have in mind. So if you want to make process of Trading in wiring, then you have to make some memonic codes also. 
+
+A13: 11.0 | B13: Mindset Management - 
+A14: 157
+A15: 158
+A16: 159
+A17: 160
+A18: 161
+A19: 162
+A20: 163
+A21: 164
+A22: 12.0 | B22: How to Make Our Mindset prepare for Trading - 
+A23: 166
+A24: 167
+A25: 168
+A26: 169
+A27: 170
+A28: 171
+A29: 172
+A30: 173
+A31: 174
+A32: 175
+A33: 176
+A34: 177
+A35: 178
+A36: 179
+A37: 180
+A38: 181
+A39: 182
+A40: 183
+A41: 184
+A42: 185
+A43: 186
+A44: 187
+A45: 188
+A46: 189
+A47: 13.0 | B47: How to Train Mind - 
+A48: 191
+A49: 192
+A50: 193
+A51: 194
+A52: 195
+A53: 196
+A54: 197
+A55: 198
+A56: 199
+A57: 200
+A58: 201
+A59: 202
+A60: 203
+A61: 204
+A62: 205
+A63: 206
+A64: 207
+A65: 208
+A66: 14.0 | B66: Do This One Thing Regularly It Works -
+A67: 210
+A68: 211
+A69: 212
+A70: 213
+A71: 214
+A72: 215
+A73: 216
+A74: 217
+A75: 218
+A76: 219
+A77: 220
+A78: 221
+A79: 222
+A80: 15.0 | B80: Successful Trader Qualities - They always Follow - 
+ - Rules
+ - Discipline
+ - Strategy
+ - Money Management
+ - Risk Management
+ - Trading Psychology
+A81: 16.0 | B81: Emotion & Grid -  
+1) EMOTION & GRID are real ENEMY of us in Stock Market.
+2) We are in Trade to make some Profit and not to make any Loss. 
+3) So Never Ever LOVE your Position.... Love your Spouce, Children etc... But not to Love Your Position.
+A82: 17.0 | B82: Consistency - 
+a) Consistency required in following Trading Rules, Trading Setup, Trading Psychology, Risk Management, Money Management and making daily Profit. This can be done with mindset. When you able to control yourself then only consistency can happen. So close system... Not to overtrade...
+b) See Once we start to follow consistency and made this as CORE part of our Trading nature. Then we can do anything after we mould ourself once then things are very simple just we have to add quantity to Trade and make money. 
+A83: 18.0 | B83: Be Patience - Patience is most important in Stock Market. As for finding Trade Patience is required and also once taken trade to move it in our favour there is also required Patience. So believe on our analysis and Be Patience. 
+A84: 19.0 | B84: Revenge Trading - Whenever you Trade for Recovery (Revenge) then lifetime you will trade for Recovery only and you will never trade for Profit.
+No Trade if maximum days loss limit reached. Save your capital and come back Tomorrow. Today was not my day. Dont do Revenge Trade. Its good to RUN AWAY as we are not that strong today. Distract your mind and go away from Market.
+A85: 20.0 | B85: Wrong Mindset Habit - If we are feeling in Morning hours about fear of trading, back of mind stress of how today trades will be. Then its BAD thing.  As following all things are in our hands.... 
+A) Taking Trade
+b) Exiting Trade
+c) Trailing Loss / Profit
+So why to make fear...... Kindly take corrective action QUICKLY and make safe our Capital is in our hands only. So why FEAR.
+So be relax and tacke Market with all our Pre-defined Rules, then no FEAR at all. And we can make comfortable Trades.
+
+
+===== Discipline =====
+A1: DISCIPLINE FOR TRADING
+A2: Sr. No | B2: Particulars
+A3: 1.0 | B3: Discipline is the Key !!
+A4: 231
+A5: 232
+A6: 233
+A7: 234
+A8: 235
+A9: 236
+A10: 237
+A11: 2.0 | B11: Some Important Points for Discipline - 
+A12: 239
+A13: 240
+A14: 241
+A15: 242
+A16: 243
+A17: 244
+A18: 3.0 | B18: Trading Journey Can Look Beautiful - If follow following - 
+A19: 246
+A20: 247
+A21: 248
+A22: 249
+A23: 250
+A24: 251
+A25: 252
+A26: 253
+A27: 254
+A28: 255
+A29: 4.0 | B29: Small Small Trades - Even if we able to make Small Small Trades of 5-10 Points and 4-5 Trades a day it can give us handsome Profit.
+A30: 5.0 | B30: Exit @ SL - Do Strictly Exit @ SL and wait for another Trade Opportunity.
+A31: 6.0 | B31: Trade Below SL - Never Sit in Trade which is making loss below our SL level.... Keep Exit immediately. As SL loss is always recoverable loss during day.... but once it becomes loss below SL then it becomes big loss.... And once big loss happen... mindset get disturb and Ad-Hoc Trades / Revenge Trades starts & ultimate loss is Unrecoverable & various other issues arises.... as Capital Erode, Depression, Bad sentiment, Lack of Confidence etc.....
+A32: 7.0 | B32: Trade till Daily Target Only - 
+If my expectation is to earn daily 5%. Then even we trade small small trade with small SL can make easily 5% a day.
+So if you got any 5% profit then exit from market. Dont convert that profit in to losses. So for this consistency is required.
+A33: 8.0 | B33: Even if Loss happened - 
+in Trading (may be managable big amount) then also not to get Panic. Be cool and Calm. Wait for proper Setup, Opportunity and their make entry. Single Candle will recover entire your losses. This is Power in BankNifty. Just important is to keep ourself cool & confident and Patience. 
+A34: 9.0 | B34: When to Stop Trading for the day : 
+We have to take Trades as above conditions of Entry satisfies.
+So daily can get 3-4 Trades properly.
+If 3 Trades hit SL or Maximum loss reaches to 50k. Then we have to stop trading anymore.
+You should know limit where to stop trading for the day. As market has potential to give big money and to take big money from you. It moves both sides. But you should know how much is your expectatin and stop there. 
+A35: 10.0 | B35: Stress Management - 
+Once Setup Trade there will be no Stress
+Once in Profit there will be no Stress
+Not to hamper Family Life & Family Time due to Market
+Not to hamper Office work due to Market (Target Done Exit & do office work)
+A36: 11.0 | B36: Negative Days are Part of Game.... 
+What we need is just 1-2 good days to get back. But main thing to maintain Capital with limited loss that can bear so that with sufficient balance capital we can make Come Back Again. 
+
+
+===== Trading Rules =====
+A1: RULES FOR TRADING
+A2: Sr. No | B2: Particulars
+A3: 1.0 | B3: Overnight Positions - 
+Never Carry Overnight Position - If you do it 30% your losses will reduce. Dont carry anything. Do pure Intraday. Save money.
+A4: 2.0 | B4: Trading Rules - 
+A5: 267
+A6: 268
+A7: 269
+A8: 270
+A9: 271
+A10: 272
+A11: 273
+A12: 274
+A13: 275
+A14: 276
+A15: 277
+A16: 278
+A17: 279
+A18: 3.0 | B18: Journal & Homework….
+A19: 281
+A20: 282
+A21: 283
+A22: 284
+A23: 285
+A24: 286
+A25: 287
+A26: 288
+A27: 289
+A28: 290
+A29: 291
+A30: 292
+A31: 293
+A32: 294
+A33: 295
+A34: 4.0 | B34: Some Important Points of Rules - 
+A35: 297
+A36: 298
+A37: 299
+A38: 300
+A40: EXPIRY DAY TRADING RULES
+A41: Sr.No. | B41: Particulars
+A42: 1.0 | B42: On expiry its very volatile market. So there are high chances of loosing or winning are there. So on those days without any Grid do take Trade with Less Quantity first. And then take on proper opportunity that get after 12.30 only. Not to take trade on every momentum we see. Wait to enter @ proper time & momentum on expiry.
+A43: 2.0 | B43: Not to take any trade after 12.30 with big quantity. Yes of course we can take with small qty like 200-300 and with strict SL trades. But no big quantity....
+
+A44: 3.0 | B44: On Expiry always Trade with at least 200 point ITM Strike Price. No problem even the said strike is of high value. 
+A45: 4.0 | B45: What generally mistake we do on Expiry is Ad - Hoc Trades. Please don't do that. Our Capital is Precious and we have to make big amount from it. So be Safe Trader.
+A46: 5.0 | B46: Not to Trade on Expiry days after 2.30 PM @ any cost. As after this time movement is very odd without any logics. And Its time to settle all positions by all Traders. So Dont waste your capital after 2.30 Pm Trading.
+
+
+===== Traders Mistakes =====
+A1: TRADERS MISTAKES LIST
+A2: Sr. No | B2: Particulars
+A3: A | B3: List of Mistakes a Trader Does  - For making Success kindly Avoid All These - 
+A4: 1.0 | B4: Quick Jump to Morning / Opning Trades.
+A5: 2.0 | B5: Not exiting with Loss, thinking that Market will reverse.
+A6: 3.0 | B6: Deploy full capital.
+A7: 4.0 | B7: Keep on Averaging Loss making Trades.
+A8: 5.0 | B8: Averaging means - Keep on position size higher and exiting at bottom.
+A9: 6.0 | B9: Left with no Capital to Trade furhter.
+A10: 7.0 | B10: Stay in Trade against the Trade.
+A11: 8.0 | B11: Not Cutting the Losses.
+A12: 9.0 | B12: Not booking reasonable Profits, expecting more and more.
+A13: 10.0 | B13: Trade in OTM Strike because of Cheap Premium, to get huge positions.
+A14: 11.0 | B14: Expiry days - Unable to Handle.
+A15: 12.0 | B15: Not following Stop Loss n System, Keep it in mind which never applies.
+A16: 13.0 | B16: Full day Taking Trades.
+A17: 14.0 | B17: Hangin on till 3.20 pm, where Long Unwinding happens on both sides. But hanging on by looking futures moving up and down..
+A18: 15.0 | B18: Taking positions just looking O = H, even though strike is below / above VWAP / Super Trend.
+A19: 16.0 | B19: Unable to Trail in Profits.
+A20: 17.0 | B20: Holding the winning Trade but exiting in less profits.
+A21: 18.0 | B21: Not able to change direction of trade as per Chart Quickly.
+A22: 19.0 | B22: Revenge Trading.
+A23: 20.0 | B23: Chasing the Market unnecessarily.
+A24: 21.0 | B24: Not waiting for the Opportunities.
+A25: 22.0 | B25: Event Days - Stuck in Volatility.
+A26: 23.0 | B26: Changing Setups very frequently.
+A27: 24.0 | B27: Bringing more & more capital to recover losses.
+A28: 25.0 | B28: Allowingmind to set Recovery Mode.
+A29: 26.0 | B29: Once reach big loss, its not easy to bring the mind to tune to less profit.
+A30: 27.0 | B30: Looking on others big Profit Screen Shots, tuning mind to work on those.
+A31: 28.0 | B31: Not realising Premium decays on OTM strike, but keep on averaging.
+A32: 29.0 | B32: Fkeeping full capital on one single account.
+A33: 30.0 | B33: Judging the market opening as trend of the day and staying in that side of Trade.
+A34: 31.0 | B34: Building position size very quickly to the full capital.
+A35: 32.0 | B35: Placing market order for huge quantities by seeing one or two candle movements.
+A36: 33.0 | B36: Not waiting to take trade on Breakout or Breakdown.
+A37: 34.0 | B37: Giving back the morning Profits in Afteernoon.
+A38: 35.0 | B38: Itchy fingers to go for every candle trade.
+A39: 36.0 | B39: Aggressive Trades.
+A40: 37.0 | B40: unable to ride the Trend.
+A41: 38.0 | B41: Not realising the change of Market Patterns, just because beleiving previous days pattern.
+A42: 39.0 | B42: Not following Trading style like Scalping or positional.
+A43: 40.0 | B43: Overnight huge positions & spending sleepless nights till 2 Am.
+A44: 41.0 | B44: Not looking different time frames to judge the Market movement.
+A45: 42.0 | B45: Emotional Distraction, Family people behind the screen are watching.
+A46: 43.0 | B46: Not learning the Support & Resistance.
+A47: 44.0 | B47: Not rejecting bad trades.
+A48: 45.0 | B48: Spending more time on Screens.
+A49: 46.0 | B49: Loving more Loss making Trades.
+A50: 47.0 | B50: Not fixing the Targets.
+A51: 48.0 | B51: Not following Trading Journal.
+A52: 49.0 | B52: Not learning from Earlier mistakes.
+
+
+===== Trading Setup =====
+A1: TRADING SETUP
+A2: Sr.No. | B2: Particulars
+A3: A | B3: TRADING SYSTEM SETUP 
+A4: 361
+A5: 362
+A6: 363
+A7: 364
+A8: 365
+A9: 366
+A11: B | B11: INDICATORS TO USE - 
+A12: 369
+A13: 370
+A14: 371
+A15: 372
+A16: 373
+A17: 374
+A18: 375
+A19: 376
+A20: 377
+A21: 378
+A22: 379
+A24: C | B24: TRADING PLAN - 
+A25: 1.0 | B25: Trading Setup - 
+A26: 383
+A27: 384
+A28: 385
+A30: 2.0 | B30: Setup on which to take Entry in BankNifty Trade : 
+A31: 387
+A32: 388
+A33: 389
+A34: 390
+A35: 391
+A36: 392
+A37: 393
+A39: 394
+A40: 1.0 | B40: This is one time job, it wrote 30 days ago of how your journey should be for the Month.
+A41: 2.0 | B41: What should be plan for trading next 30 days is very important. Because when you make any plan it should run in your mind repetatively, my trading plan is like this, my SL is maximum here. I cant plan SL more than this etc.
+A42: 3.0 | B42: So this Trading Plan will always guide you and help to stuck up for the plan as planned. So make sure you should have Trading Plan for every 30 days.
+A43: 4.0 | B43: Where to take Entry, Where to take Exit, What is Stop Loss, When to Stop Trading, When to Trade Full Day, What plan for Daily Target Trade.
+
+
+===== Thakre Price-Action Knowledge =====
+A1: THAKARE SIR MARKET OBSERVATIONS
+A2: SETUP - BULLISH & BEARISH
+A3: Sr. No. | B3: Particulars
+A4: 402
+A5: 1.0 | B5: WHEN MACD BELOW 0, STOCHASTIC BELOW 40 AND PRICE BELOW VWAP.
+A6: 2.0 | B6: WHEN MACD BELOW 0, STOCHASTIC BELOW 40, PRICE BELOW VWAP AND 200 EMA - ITS VERY BULLISH SETUP
+A7: 3.0 | B7: WHEN MACD BELOW 0, STOCHASTIC TURNS UPWARDS FROM 40 AND PRICE BELOW VWAP 
+A8: 4.0 | B8: WHEN MACD BELOW 0, STOCHASTIC TURNS UPWARDS FROM 40 AND PRICE BELOW VWAP AND 200 EMA
+A9: 5.0 | B9: WHEN MACD BELOW 0, STOCHASTIC BELOW 40 AND PRICE BELOW VWAP AND SUPERTREND
+A10: 6.0 | B10: WHEN MACD BELOW 0, STOCHASTIC BELOW 40 AND PRICE BELOW VWAP AND 20 - 50 EMA BULLISH CROSSOVER
+A12: 409
+A13: 1.0 | B13: WHEN MACD ABOVE 0, STOCHASTIC ABOVE 40 AND PRICE ABOVE VWAP AND 20 - 50 EMA - BULLISH CROSSOVER ON 15 MIN CHART
+A15: Sr. No. | B15: Particulars
+A16: 411
+A17: 1.0 | B17: WHEN MACD BELOW 0, STOCHASTIC BELOW 40 AND PRICE BELOW VWAP.
+A18: 2.0 | B18: WHEN MACD BELOW 0, STOCHASTIC BELOW 40, PRICE BELOW VWAP AND 200 EMA - ITS VERY BEARISH SETUP
+A19: 3.0 | B19: WHEN MACD BELOW 0, STOCHASTIC TURNS DOWNWARDS FROM 40 AND PRICE BELOW VWAP 
+A20: 4.0 | B20: WHEN MACD BELOW 0, STOCHASTIC TURNS DOWNWARDS FROM 40 AND PRICE BELOW VWAP AND 200 EMA
+A21: 5.0 | B21: WHEN MACD BELOW 0, STOCHASTIC BELOW 40 AND PRICE BELOW VWAP AND SUPERTREND
+A22: 6.0 | B22: WHEN MACD BELOW 0, STOCHASTIC BELOW 40 AND PRICE BELOW VWAP AND 20 - 50 EMA BEARISH CROSSOVER
+A24: 409
+A25: 1.0 | B25: WHEN MACD BELOW 0, STOCHASTIC BELOW 40 AND PRICE BELOW VWAP AND 20 - 50 EMA - BEARISH CROSSOVER ON 15 MIN CHART
+A27: PRICE ACTION
+A28: Sr. No. | B28: Particulars
+A29: 1.0 | B29: When there has been a rally and a base is created , if it gap down opens then chances of filling the gap and going up.
+A30: 2.0 | B30: Ideal scenario of trend day is, it makes Higher High & Higher low/ Lower High and Lower Low every 30 minutes.
+A31: 3.0 | B31: On trend day check VWAP and EMAs too.
+A32: 4.0 | B32: If PDL is not breached even after a gap down opening and if it does not close below PDL then we can consider a CE trade (based on 0=H).
+A33: 6.0 | B33: A bullish perspective : * Gap down open ( with in previous day range ) *Struggling to close below PDL *Check O=H. Chances of going up!
+A34: 7.0 | B34: For break out trades : watch for wide body candles. Then we might get a follow up candle. Also check DOW and DAX if it is same as our trend and also keenly observe the candle formation
+A35: 8.0 | B35: Watch for day low, if it breaks day low with volume we can expect a follow up.
+A36: 9.0 | B36: After breaking day low with wide body candle with great volume if follow up is not giving a convincing aggresive move, then we can book the profit/loss because the retracement can be fast.
+A37: 10.0 | B37: If the market is in range scalp 10-20 points. DO NOT HOLD.
+A38: 11.0 | B38: If the price is breaking any significant points ( EMA, Day high/low, VWAP, 200 EMA) with wide body candle after making a base we can consider for a entry. It will be great if it retraces with in candle to buy.
+A39: 12.0 | B39: If the candle created a base and if it reaches the same base again and we see a buying intrest in the same area we can get into the trade.
+A40: 13.0 | B40: Avoid if the market is trading in a range. As it might be a whip saw movement.
+A41: 14.0 | B41: If there is a small correction/fall and at the end of the fall if we are getting a green candle with same size of the previous red candle (Twizzer Bottom) market might move up. If it is at a significant point (VWAP, 200 EMA or any other support). In this scenario smart money is trapping people to sell.
+A42: 15.0 | B42: In sideways range VIX would be negative.
+A43: 16.0 | B43: If market is trading in a range try to not take a trade and if we find any opportunities do a quick scalp.
+A44: 17.0 | B44: A holding trading willl be after range breakout.
+A45: 18.0 | B45: 3 candle pattern is when the candle formation in such a way that RED GREEN RED, when the third candle(red) breaks the low of the previous candle then we can consider a trade.
+A46: 19.0 | B46: Whenever a doji/wick are in a breakout points (eg : 200 EMA, signifcant resistance/support) avoid to take any trades.
+A47: 20.0 | B47: After gap up opening, if the market is making doji and struggling to go up followed up with wide red candle it shows market does not want to go up.
+A48: 21.0 | B48: Observation : When it rallied 100 points from 200 EMA it took rest, formed 3 dojis and then a good wide body green candle was formed with momentum. So in this situation it rallied formed a base and again rallied.
+A49: 22.0 | B49: After rally, if a base is formed with doji, algos might be adding the quantities and if it is above MA and not breaking it we can expect an upmove.
+A50: 23.0 | B50: We can take a risk to enter a trade when a sudden move formed after a base is had been made for many hours (consolidating for hours), it might be an algo giving a spurt!
+A51: 24.0 | B51: If a candle got momentum the chance of it might become a full body candle.
+A52: 25.0 | B52: After a small correction is done observe the range of the candle. See if the range of the red candle which are being made is getting narrower and if a pinbar is formed after the red candles we can consider a trade.
+A53: 26.0 | B53: Observe if there is a small consolidation going on near VWAP/200 EMA/ any other important zone then chances of a breakout with good 20-30 point trade.
+A54: 27.0 | B54: If the candle breaks VWAP, ST with a large body and even if it is a doji still struggling ABOVE 200 EMA is a good sign that it might not fall further as it has not crossed and closed below 200.
+A55: 28.0 | B55: If a big red candle breaks out all the EMA with the wide body candle we can expect a follow up.
+A56: 29.0 | B56: If there is a down move and vix also increasing then more chances of follow up.
+A57: 30.0 | B57: When the price comes to a psychological level it might get a sharp bounce.
+A58: 31.0 | B58: Probability of a follow up is high if a fast moving candle is in formation.
+A59: 32.0 | B59: On an event day, when it gives us a gap up and goes upside and then closes at the day low is a strong bearish sign.
+A60: 33.0 | B60: On an event day, if opened gap down and closes at the day high a strong Bullish sign.
+A61: 34.0 | B61: If a candle in the opening scenario opens gap up and then fills the gap and shows a pinbar/reversal pattern, It can go up and if O=H it can also be achieved.
+A62: 35.0 | B62: When the PDL is not broken, either it might close at day low/ at VWAO (scenario after 2:30). If the low of the market is showing some support then it may close at VWAP.
+A63: 36.0 | B63: Watch if market is going down after gap down. If it is strugggling to go down then it might be a CE trade opportunity.
+A64: 37.0 | B64: Market depth of Bank 1:3 ratio works better on gap up/down days.
+A65: 38.0 | B65: When the range is big and good if the candle is breaking the low of the day after making a base it would be a good trade.
+A66: 39.0 | B66: Avoid scenario where there is no follow up, i.e trading in a range with red candle followed by a green and again red.
+A67: 40.0 | B67: Once the 200 EMA is crossed and if O=H is also achieved, chances of previous day close the high of previous day can also be reached.
+A68: 41.0 | B68: When a pattern like H&S is formed if it crosses against the shoulder. i.e if the moves is in the opposite direction then chancesof upward move cannot be ruled out.
+A69: 42.0 | B69: Breakout candle should be Wide body candle with volume.
+A70: 43.0 | B70: If there is a trending day, there might be a follow up candle which might open gap up/down.
+A71: 44.0 | B71: Market Moving Higher & Vix Cooling Down - BULLISH
+Market Moving Lower & Vix Stable - BULLISH
+Market Moving Higher & Vix Rising - BEARISH
+Market Moving Lower & Vix Rising - BEARISH
+A73: EXPIRY
+A74: Sr. No. | B74: Particulars
+A76: 1.0 | B76: Wednesday and Thursday, if it is in a range only scalp 10-20 points rather than holding on it.
+A77: 2.0 | B77: Before expiry, smart people play with the premium they would push the market down to increase the premium of PE and take the market up to increase the CE premium
+A78: 3.0 | B78: Before expiry, if there are 2 sided moves then the expiry might be range bound and if it is consolidating before expiry we might get a good expiry.
+A79: 4.0 | B79: On an expiry when the market opens Gap up/down that expiry might give us many opportunity.
+A81: VWAP
+A82: Sr. No. | B82: Particulars
+A83: 1.0 | B83: VWAP acts as a magnet.
+A84: 2.0 | B84: VWAP is important even in option striked price chart because Big boys might keep SL below/above it.
+A85: 3.0 | B85: We can take a VWAP rejection trade when the price is far away from VWAP and when it comes to VWAP then we can take a retracement trade.
+A86: 4.0 | B86: IF 0=H in both CE & PE then take a position after confirmation of VWAP, which ever strike price breaks VWAP we can consider it.
+A87: 5.0 | B87: If the price is struggling to cross above VWAP, it might go down mostly after a gap up open (and vice versa).
+A88: 6.0 | B88: Even previous day VWAP holds an importance in option strike price.
+A89: 7.0 | B89: If the price closes near or at theVWAP, i.e if 2 days consolidating near VWAP and then chances of a trending move.
+A90: 8.0 | B90: If the VWAP is broken with good volume it might act as support (resistance to support).
+A91: 9.0 | B91: Once VWAP is broken DOWN with volume then chances of down move.
+A92: 10.0 | B92: If the price breaks VWAP and closes above VWAP and is not giving a momentum but still holding above VWAP, then it is a good sign of CE and if the candle has a lower wick it would be great!
+A93: 11.0 | B93: The candle made a lower wick i.e the price went down from VWAP and if it still manages to close above VWAP, it might be a SL hunting.
+A94: 12.0 | B94: Check for any rejections happening in Previous day VWAP of future.
+A95: 13.0 | B95: On a gapdown day if the price is staying above VWAP then it has got strenght to go up.
+A98: PREMIUM
+A99: Sr. No. | B99: Particulars
+A100: 1.0 | B100: If the market is trending watch for OI , also look for monthly expiries too if there is an unwinding happening.
+A101: 2.0 | B101: On an expiry or before that, big boys might increase the premium of both CE and PE to make straddles/strangles profitable.
+A102: 3.0 | B102: If call premiums are higher we can expect a downmove and if the put premiums are higher we can expect an upmove, which ever side the premium is high they will try to eat it.
+A103: 4.0 | B103: Wednesday is the premium adjustment day and mostly after 12 PM.
+A104: 5.0 | B104: If the market has gapdown and formed red candle after a couple of candles if there is again a big red candle, then option premiums also has to spike up.
+A105: 6.0 | B105: More premiums we get in discount we mught get a better move in second half.
+A106: 7.0 | B106: Which ever premium is in more discount then a move come to the side to increase the premium.
+A107: 8.0 | B107: If there is red candle forming and premium price of PE is not moving, better stay away!!
+A108: 9.0 | B108: Observe if premium is moving first and then the candle, then it is too risky.
+A109: 10.0 | B109: If call premium is not moving much and put premium is melting (if PE is high) then Big boys might be trying to melt it.
+A110: 11.0 | B110: If a premium is not moving much from a particular price/range of price then the level might be acting as a resistance.
+A111: 12.0 | B111: If the premium price is taking support at any particular price observe any buying pressure is coming to it.
+A112: 13.0 | B112: If premium are not moving good and candle is moving it might be a trap!! Be aware!!
+A114: INDICATORS (MACD & STOC)
+A115: Sr. No. | B115: Particulars
+A116: 1.0 | B116: When we enter a breakout trade and it is just rocketing, check on stochastics if it is above 90-95 as it is overbought zone, wait for it to cool down.
+A117: 2.0 | B117: If all the EMAs are crossing over (bullish cross over 20-50-100-200), see if price is above all EMA and stochastic not going below/above 40 then a Bullish scenario.
+A118: 3.0 | B118: When MACD showing a divergence and stochastic going up, i.e if they are in opposite direction then chances of sideways market
+A119: 4.0 | B119: If MACD line is not going below zero and it is staying above the signal line we might get an up move.
+A120: 5.0 | B120: When ever price is coming down and MACD is moving up we have to be very alert. If the price is taking support then we can expect an upmove.
+A121: 6.0 | B121: On a trending day indicators might be lagging.
+A122: 7.0 | B122: Sign of a trend day is indicators might go down and not the price. Price might take support while indicators go down.
+A124: EMA
+A125: Sr. No. | B125: Particulars
+A126: 1.0 | B126: 50 EMA on 5 Min is equivalent to 20 EMA on 15 Min Chart
+A127: 2.0 | B127: 200 EMA on 5 Min is equivalent to 50 EMA on 15 Min Chart & 20 EMA on 1 Hr.
+A128: 3.0 | B128: 200 EMA is the mother moving average.
+A129: 4.0 | B129: 20 EMA crossing 200 EMA and stochastic not ready to cool off bullish sign.
+A130: 5.0 | B130: If 200 EMA broken with forcer then it might give a breakout with burst. We should book the profit if the price is not moving down convincingly. Reversal could be furious.
+A131: 6.0 | B131: We can identify the type of day by EMAs : if all the EMAs are coiled together then it might be a sideways day.
+A132: 7.0 | B132: 200-50 EMA crossovers : *Golden crossover (Bulllish) : 50 going above 200 * Death cross over (Bearish) : 50 going below 200.
+A133: 8.0 | B133: More the EMAs come together more the sideways.
+A134: 9.0 | B134: EMAs should expand and once a range is broken then we might see a change/begining of trend.
+A135: 10.0 | B135: If 200 EMA is broken with volume, and it failed to go down with reversal pattern chances of going to VWAP/Super trend.
+A136: 11.0 | B136: Around 2:15 - 2:30, if we get a situation where the candle broke the 200 EMA or day low and struggling to go down we might get a VWAP trade, it might be a SHORT COVERING as well.
+A137: 12.0 | B137: If 20 and 200 EMA are together then it would be of significance.
+A138: 13.0 | B138: If EMAs are expanded, we can put the target at the next EMA.
+A139: 14.0 | B139: If all EMAs are coiled and if one candle breaks all the coiled EMAs then we can consider a trade in that direction.
+A140: 15.0 | B140: If the morning candle is not closing below the 20 EMA it is showing some demand.
+A141: 16.0 | B141: Once EMAs are having good gap watch if it is taking support.
+A142: 17.0 | B142: If the fall is happening and the candle takes support at 200 EMA and goes up and takes resistance above at some kind of resistance/VWAP/EMA and again approaches to 200 and if it breaks down we might see a decent fall.
+A143: 18.0 | B143: Like 50-200, 20-50 crossover is also crucial.
+A144: 19.0 | B144: We can expect a move when 20 & 50 EMAs are getting squeezed.
+A145: 20.0 | B145: 20 EMA is the mean reversion of the Bolinger Band.
+A147: O=H
+A148: Sr. No. | B148: Particulars
+A149: 1.0 | B149: When ever we see O=H and VWAP of the strike price is crossed and if it staying above it (or if there is any MA above VWAP) then it is a good sign that it will achieve 0=H.
+A150: 2.0 | B150: If O=H in both CE and PE then take a position after the confirmation of VWAP, which ever price VWAP is crossing we can go for it.
+A151: 3.0 | B151: If O=H on bith side achieved in the opening session then it may move into a range bound day.
+A152: 4.0 | B152: Whenever O=H in one side and a rejection happens, eg : If CE have 0=H and showing rejection or struggling when going down then chances of achieving O=H.
+A153: 5.0 | B153: O=H first touch for ITM.
+A154: 6.0 | B154: 0=H on both side indicates a rangebond day. A scalping day.
+A155: 7.0 | B155: When there is O=H, watch previous close too and in present day if O=H is hit then next target could be previous close.
+
+
+===== VWAP Trading Strategy =====
+A1: TRADING STRATEGY - VWAP
+A2: Sr.No. | B2: Particulars
+A3: A | B3: Trading Style & Strategy to Adopt & Targets to Follow Strictly 
+A5: 1.0 | B5: Watch ATM / ITM Chart of CE & PE Strike Simulteneously. CE / PE when going above VWAP, do Buy it. Here make sure that Price is also above SuperTrend. 
+Also have to consider here the Trend of Market & accordingly do take CE / PE above VWAP.
+A6: 2.0 | B6: Once Buy made.... 
+a) Cenerio - 1 - Price goes up for some points and again coming back to VWAP then - Without any second thought do QUICK EXIT @ VWAP i.e CTC.
+b) Cenerio - 2 - Price goes up for some poionts and going up more then - Do trail our Profit with reasonable price gap. And do trail it properly. 
+c) Trailing Rules - 20 EMA, 50 EMA,100 EMA, 200 EMA, SuperTrend, Camrilla all are these Indicators work as Dynamic Support & Resistance. So Trail Price with all these considerations. And do exit @ Reasonable Points. 
+d) We can also jump in trades as buy on VWAP and got some points do Exit on Red candle. And again buy on or near VWAP. 
+A7: 3.0 | B7: Number of Trades - With this type of Strategy Trading, we get daily 4-5 Trades in CE and PE, out of it 2-3 Trades gives 150-200 points (even more than it) and 1-2 Trade will exit @ CTC or max 3-5 points loss. 
+A8: 4.0 | B8: Need Practice - 
+We have to do more Practice of this strategy in running market. As post market we can see 300-400 points rally after VWAP in CE / PE, but in running Market we not able to capture the said points. So for it Make good practice of VWAP trade with following all above mentioned Rules.
+A9: B | B9: Thakare Sir's VWAP observation points - 
+A10: 1.0 | B10: VWAP acts as a magnet.
+A11: 2.0 | B11: VWAP is important even in option striked price chart because Big boys might keep SL below/above it.
+A12: 3.0 | B12: We can take a VWAP rejection trade when the price is far away from VWAP and when it comes to VWAP then we can take a retracement trade.
+A13: 4.0 | B13: IF 0=H in both CE & PE then take a position after confirmation of VWAP, which ever strike price breaks VWAP we can consider it.
+A14: 5.0 | B14: If the price is struggling to cross above VWAP, it might go down mostly after a gap up open (and vice versa).
+A15: 6.0 | B15: If the VWAP is broken with good volume it might act as support (resistance to support).
+A16: 7.0 | B16: Once VWAP is broken DOWN with volume then chances of down move.
+A17: 8.0 | B17: If the price breaks VWAP and closes above VWAP and is not giving a momentum but still holding above VWAP, then it is a good sign of CE and if the candle has a lower wick it would be great!
+A18: 9.0 | B18: The candle made a lower wick i.e the price went down from VWAP and if it still manages to close above VWAP, it might be a SL hunting.
+A19: 10.0 | B19: On a gapdown day if the price is staying above VWAP then it has got strenght to go up.
+A20: 11.0 | B20: Always remember, Option Buying Need Momentum & Momentun comes only When Option Strike Price is Above ST & VWAP 
+A21: 12.0 | B21: Dont Buy Option when it is Trading below VWAP 
+Buy only when Option Strike Price > ST > VWAP
+50k Candle with Volume confirms arrival of Large Player
+Never Buy Option when it is Trading Below VWAP, because this is area whenre Option Sellers starts Writting. So buy only Option Strike > ST > VWAP.
+
+
+===== O=H Strategy =====
+A1: TRADING STRATEGY - OPEN & HIGH STRATEGY
+A2: Sr. No. | B2: Particulars
+A3: 1.0 | B3: Its only Option Buying Technique. It applies purely for Intraday Scalpping BankNifty.
+A4: 2.0 | B4: O=H almost happen Every Day, Trade Happens almost before 9.45 Am.
+A5: 3.0 | B5: You can easily got 1% from this Strategy. Use only 10% of your Capital. 
+A6: 4.0 | B6: It reflects Big Players Game Plan for the Day. Big players ensure its success to satisfy their EGO (most of the time)
+A7: 5.0 | B7: Open High works on ATM / ITM First
+A8: 6.0 | B8: We can easily identify Open & High Strikes from OI PULSE App.
+A9: 7.0 | B9: If we see OH matches on Ce or PE side should we go and straight away buy that Ce or PE - NO, We need to time our entry when Probability is High. Then how to know Probability is High, for it we have to analyse - 
+1) FNO Data, 
+2) Price Action, 
+3) Open Interest.
+
+A10: 548
+A11: 549
+A12: 550
+A13: 8.0 | B13: Entry - 
+Make Entry on analysis of all above F&O Data, Price Action & Open Interest. Then take Entry when ther is SUPPORTIVE MOMENTUM
+Choose Strike whose Premium is nearest to its Target 
+Always Trail once in Profit
+Target is High Level.
+A14: 9.0 | B14: KEY THINGS TO REMEMBER - 
+a) Do not jump directly to buy options once you see OH on Ce / PE 
+b) Find the probability of Success by analysing - Price / Volume  / Open Interest Data
+c) Make an Entry only when there is MOMENTUM
+d) Trail once in Profit
+e) Avoid setup if cnhange in Premium and change in OI cross barrier of 50%.
+
+
+===== 2 Candle Theory =====
+A1: TRADING STRATEGY - 2 CANDLE THEORY
+A2: Sr. No. | B2: Particulars
+A3: 1.0 | B3: It is IntraDay Trend Determination Strategy i.e Bearish or Bullish Trend in short Term of Intraday for Scalping.
+A4: 2.0 | B4: Success rate is between 10.15 to 2.30 
+A5: 3.0 | B5: Time Frame - 3 Min
+A6: 4.0 | B6: Using this strategy you can achieve 1 % Target very easily in Intraday Trading.
+A7: 5.0 | B7: For Bullish Setup 
+A8: 559
+A9: 560
+A10: 561
+A11: 562
+A12: 563
+A13: 564
+A14: 565
+A16: 6.0 | B16: For Bearish Setup 
+A17: 567
+A18: 560
+A19: 568
+A20: 569
+A21: 570
+A22: 564
+A23: 571
+
+
+===== W - M Breakout =====
+A1: TRADING STRATEGY - "W" & "M" PATTERN BREAKOUT 
+A2: Sr. No. | B2: Particulars
+A3: A | B3: Breakout of W & M Pattern.
+A4: 1.0 | B4: Kindly hunt during Market hours for W & M Pattern on Line Chart.
+A5: 2.0 | B5: On Breakout of W Pattern make CE Buy.
+A6: 3.0 | B6: On Breakdown of M Pattern make PE Buy.
+A7: 4.0 | B7: Once TL Breakout / Breakout happen, give your attention to VWAP, ST, EMA, any other TL, previous High / Low, Camrilla etc to take Exit Decisions. It works. 
+
+
+===== Trend Line Breakout =====
+A1: TRADING STRATEGY - TREND LINE BREAKOUT STRATEGY
+A2: Sr. No. | B2: Particulars
+A3: A | B3: Breakout / Breakdown of Trend Lines
+A4: 1.0 | B4: Draw most appropriate Trend Lines on 3 / 5 Min Chart in Live Market.
+A5: 2.0 | B5: Wait to Breakout of the same and do plan Trade accordingly. 
+A6: 3.0 | B6: It gives assured positive result.
+A7: 4.0 | B7: After breakout give attention on Any other TL, EMA, ST, Camrilla, Previous High / Lows to exit from Trade.
+A8: 5.0 | B8: It takes some time to draw appropriate Trend Lines in running Market and to check its validity, then Trading on it. 
+A9: 6.0 | B9: Breakout of TL alongwith Breakout of VWAP is very Strong.
+A10: 7.0 | B10: Once TL breakout happen, give your attention to VWAP, ST, EMA, any other TL, previous high / low, Camrilla etc to take exit decisions. It works. 
+A11: 8.0 | B11: When TL runs from bottom to Up - It gives Good Fall Downside.
+A12: 9.0 | B12: When TL run from Top to Bottom - It gives Good Spike Upside.
+A13: 10.0 | B13: Also do Mark in running Market the days Lows & Highs. So we come to know that when Market is coming near Low or High, there are two possibilities that it will reject from Trend Line or make Breakout. So take Trade decision based on it. And once this area trade are in very speed and here we can get real Momentum. And thats we need in trading as Option Buyer.
+
+
+===== Support & Resist Breakout =====
+A1: TRADING STRATEGY - SUPPORT & RESISTANCE BREAKOUT
+A2: Sr. No. | B2: Particulars
+A3: A | B3: Trade @ Support / Resistances Breakout
+A4: 1.0 | B4: Support & Resistances lines can be drawn from Previous data of Chart
+A5: 2.0 | B5: We are using Kresearch - Kal Ki Baat Aaj - Support / Rsistances. 
+A6: 3.0 | B6: Do wait with Patience to analyse Trend / Direction of Market. As support are placed @ Lower levels & Resistances are at Higher levels of chart. 
+A7: 4.0 | B7: In between of these Support & Resistances we should not take any Trade. Once you get the direction then we can take trade till achieve of Support / Resistance levels as Targets.
+A8: 5.0 | B8: Also very helpful trick. Make Support & Resistance line on 15 Min Chart days Low & High (additional Support & Resistance during Market Hours). It will indicate Range of Market. On breakut of the same market gives good momentum. And thats we need as Option Buyer. 
+
+
+===== 10 Am Strategy =====
+A1: TRADING STRATEGY - 10 AM BANKNIFTY STRATEGY
+A2: Sr. No. | B2: Particulars
+A3: A | B3: 10 Am BankNifty Strategy
+A4: 1.0 | B4: Step - 1
+A5: 600
+A6: 601
+A7: 602
+A8: 603
+A9: 2.0 | B9: Step - 2
+A10: 605
+A11: 606
+A12: 607
+A13: 608
+A14: 609
+A15: 610
+A16: 611
+A17: 3.0 | B17: Step - 3
+A18: 613
+A19: 4.0 | B19: STOP LOSS - 
+A20: 615
+A21: 616
+A22: 5.0 | B22: Conclusion - 
+A23: 618
+A24: 619
+A25: 620
+A26: 6.0 | B26: In this strategy - 
+A27: 622
+A28: 623
+A29: 624
+A30: 625
+
+
+===== 20-20 (ZigZig) =====
+A1: TRADING STRATEGY - 20 : 20 STRATEGY (ZIG - ZAG)
+A2: Sr. No. | B2: Particulars
+A3: A | B3: 20 : 20 Strategy - KingResearch
+A4: 1.0 | B4: General - 
+A5: 629
+A6: 630
+A7: 631
+A8: 632
+A9: 633
+A10: 634
+A11: 635
+A12: 636
+A13: 637
+A14: 2.0 | B14: CE Buy Setup -
+A15: 639
+A16: 640
+A17: 641
+A18: 642
+A19: 3.0 | B19: PE Buy Setup -
+A20: 644
+A21: 645
+A22: 646
+A23: 647
+A24: 4.0 | B24: Other Points - 
+A25: 649
+A26: 650
+A27: 651
+A28: 652
+
+
+===== Traffic Light =====
+A1: Rules
+A2: Chart TF | B2: 1 min
+A3: 9:15 to 9:16 Candle | B3: Ignore
+A4: Now identify pair | B4: 1 RED & 1 GREEN
+B5: or 1 GREEN & 1 RED
+A6: Mark range of High and Low | B6: Mark H & L of pair candles
+A7: Identify the strike price | B7: Range of 200 to 300
+A8: Take only 2 trades in 1 min TF and then switch to 5 min TF | B8: SL Rules
+A9: if 2 SL are HIT, then change to 5 min TF | B9: SL Rules
+A10: SL should be less than 60 to 80 points, if the range is more than 100 points | B10: Manage your Position sizing
+A11: Continous 3 SL are hit, stop for the day
+
+
+===== 1-2-3-Trend =====
+
+
+===== Trading Journal - Format =====
+A1: TRADING JOURNAL | B1: 672
+A2: Time | B2: Type | C2: Instrument | D2: Qty. | E2: Avg. Price | F2: Buy Value | G2: Sell Value | H2: Profit / (Loss) | I2: Cummu (Profit / (Loss) | J2: ROI (On Capital Utilised) | K2: Setup for Trade | L2: Mistake Made | M2: Learning from This Trade | N2: 686
+A3: 687
+A4: 9.3 | B4: Buy | C4: BankNifty 34000CE | D4: 1000.0 | E4: 120.0 | F4: 120000 | G4: 200000 | H4: 80000 | I4: 80000 | J4: 0.6666666667 | K4: Breakout of VWAP Setup  | L4: 389
+A5: 9.5 | B5: Sale | C5: BankNifty 34000CE | D5: 1000.0 | E5: 200.0 | F5: 691
+A6: 391
+A7: 692
+A8: 693
+A9: 694
+
+
+===== Budget =====
+A1: Date | B1: O | C1: H | D1: L | E1: C | F1: Intraday
+Volatility | G1: Points | H1: % Swing
+A2: Budget Week | B2: 2568.15 | C2: 26215.1 | D2: 25023.85 | E2: 25463.45 | F2: 1191.25 | G2: -987.5 | H2: -0.03878107641
+A3: Budget Week | B3: 26974.0 | C3: 27589.75 | D3: 26825.55 | E3: 27294.4 | F3: 764.2 | G3: 208.45 | H3: 0.00763709772
+A4: Budget Week | B4: 29811.75 | C4: 31470.65 | D4: 29612.55 | E4: 31201.95 | F4: 1858.1 | G4: 1381.05 | H4: 0.04426165672
+A5: Budget Week | B5: 30976.35 | C5: 36615.2 | D5: 30906.45 | E5: 35654.5 | F5: 5708.75 | G5: 5089.0 | H5: 0.1427309316
+A6: Budget Week | B6: 38592.05 | C6: 39197.2 | D6: 37319.05 | E6: 38517.25 | F6: 1878.15 | G6: -272.1 | H6: -0.007064367264
+A8: Date | B8: O | C8: H | D8: L | E8: C | F8: Intraday
+Volatility | G8: Points | H8: % Swing
+A9: 43102.0 | B9: 27334.85 | C9: 27613.5 | D9: 27046.35 | E9: 27220.7 | F9: 567.15 | G9: -158.75 | H9: -0.005831958767
+A10: 43467.0 | B10: 27334.55 | C10: 27533.05 | D10: 26930.45 | E10: 27085.0 | F10: 602.6 | G10: -209.5 | H10: -0.007734908621
+A11: 43832.0 | B11: 30726.0 | C11: 30918.6 | D11: 29753.0 | E11: 29820.9 | F11: 1165.6 | G11: -1012.7 | H11: -0.03395940431
+A12: 44198.0 | B12: 30976.35 | C12: 33305.3 | D12: 30906.45 | E12: 33089.05 | F12: 2398.85 | G12: 2523.55 | H12: 0.07626541106
+A13: 44563.0 | B13: 38460.45 | C13: 38802.7 | D13: 37690.6 | E13: 38505.5 | F13: 1112.1 | G13: 530.15 | H13: 0.01376816299
+
+
+===== Banks - How to Evaluate =====
+A1: Today we will study ratios for analysing any banking/ non- banking stock.
+A2: Key Ratios are -
+A3: 1. Net Interest Margin (NIM)
+A4: 2. Provision Non Performing Assets (PNPA)
+A5: 3. Loan to Assets Ratio
+A6: 4. Return on Assets Ratio (ROA)
+A7: 5. Capital Adequacy Ratio
+A8: 6. Gross NPA
+A9: 7. Net NPA
+A10: 8. CASA Ratio
+A11: 9. Cost to Income ratio
+A12: ---------------------------------------------------------------------
+A13: 1. Net Interest Margin (NIM)
+A14: 1. Net Interest Margin = ( Investment Income –
+A15: Interest Expenses ) / Average Earning Assets.
+A16: 2. Positive Net Interest Margin shows that bank is earning more money in the form of interest than its cost of funding investments.
+A17: 3. There are several factors that affect bank NIM. One of the most significant is interest rates. When interest rates are high, banks are able to earn more from loans and investments, which increases their NIM. When interest rates low, banks earning will loans and investments decrease, which lead lower NIM.
+A18: 4. In summary, Net Interest Margin is important measure of bank's profitability and its ability to generate income from its existing assets. NIM is affected by interest rates and competition. Banks with a high NIM are generally considered strong financial position and better to grow and invest in new opportunities.
+A20: Let's look at example
+A21: Bank in India has total assets of ₹1,00,000 crore consist of loans and investments. The bank has total deposits of ₹80,000 crore and it pays interest rate of 4% on savings accounts and 6% on Fix Deposit The bank total interest income for the period is ₹2,400 crore which is earned by loans and investments. The bank total interest expense for period is ₹1,600 crore, which is paid to depositors.
+A23: To check the NIM we take the bank net interest income (NII) of ₹800 crore (₹2,400 crore in interest income - ₹1,600 crore interest expense) and divide by the bank average earning assets of ₹90,000 crore (average of total assets and total deposits).
+A24: NIM = NII / Average Earning Assets
+A25: NIM = ₹800 crore / ₹90,000 crore
+A26: NIM = 0.89%
+A27: Bank NIM is 0.89% every ₹100 of assets the bank is earning ₹0.89 of net interest income. This NIM is a measure of the bank efficiency in generating income from assets and can be used to compare it with other banks and over time.
+A28: NIM in India will be lower than developed countries due to lower lending rates and high competition among bank.
+A29: -=-=-=-=
+A30: 2. Provision Non Performing Assets (PNPA)
+A31: 1. An asset, including a leased asset, becomes non performing when it ceases to generate income for the bank.
+A32: 2. Provision for Non Performing Assets ( NPA ). The amount keep aside by bank, to cover it's potential losses from loans and other credit related assets that have been non performing.These provisions are made when a bank expects that some of its borrowers will default on their loans, and the bank needs to set aside funds to cover the potential loss.
+A33: 3. In summary, Provision for Non Performing Assets ( NPA ) Banks are required to make provisions for NPA on a regular basis, quarterly basis, amount of provisions is disclosed in the financial statements. Provision for NPA is an important measure of a bank's financial health, Help bank to absorb the impact of loan defaults and manage credit risk.
+A34: Provisions for NPA is closely watched by investors, analysts, and regulators, it helps them to assess the bank's credit risk.
+A36: Let's look at example
+A37: Bank total loans of ₹50,000 crore. ₹2,000 crore classified Non performing Assets ( NPA ) borrowers defaulted their payments more than 90 days. Bank required to set aside certain percentage of the NPA loans as PNPA as per the Reserve Bank of India's guidelines. The current PNPA provisioning ratio is 15%.
+A38: To get PNPA we multiply the NPA loans of ₹2,000 crore with the PNPA provisioning ratio of 15%.
+A39: PNPA = NPA loans x PNPA provisioning ratio
+A40: PNPA = INR 2,000 crore x 15%
+A41: PNPA = INR 300 crore
+A42: -=-=-=-=
+A43: 3. Loan to Assets Ratio
+A44: 1. Loan to Assets ratio can help investors obtain complete analysis of bank's operations. Banks that have relatively higher Loan to Assets ratio banks with lower levels of Loan to Assets ratios derive a relatively larger portion of their total incomes from more diversified, noninterest earning sources, such as asset management or trading. Banks with lower Loan to Assets ratios may fare better when interest rates are low or credit is tight.
+A45: 2. In summary, Loan to Asset ratio is financial metric compares bank total loans to total assets. It's used to measure bank leverage assess the level of risk associated with lending activities. Higher Loan to Assets ratio indicates that a bank is more heavily reliant on lending and is more leveraged and risky, while a lower ratio indicates that the bank is less risky.
+A47: Let's look at example
+A48: Bank has total assets ₹1,00,000 crore, total loans ₹70,000 crore. to get Loan to Assets Ratio we divide the total loans by the total assets.
+A49: Loan to Asset Ratio = Total Loans / Total Assets
+A50: Loan to Asset Ratio = ₹70,000 crore / ₹1,00,000 crore. Loan to Asset Ratio = 0.7.
+A51: Bank's Loan to Assets Ratio is 0.7 / 70% (0.7*100) bank assets in form of loans. A higher Ratio indicates that bank is heavily invested in lending activities, which can be sign of more aggressive lending strategy. it's also increases the risk of default. Than higher risk of NPA . Banks required to maintain minimum level of Capital Adequacy Ratio as per the Reserve Bank of India's (RBI) guidelines.
+A52: -=-=-=-=
+A53: 4. Return on Assets Ratio (ROA)
+A54: 1. Return on Assets = Net Income / Total Assets
+A55: 2. The higher ratio means assets are well managed and low ratio means resources didn't used effectively compared to the industry and competitors.
+A56: 3. In summary, ROA is financial ratio measures profitability of company in relation to total assets. It is calculated by dividing the company's
+A57: net income by its total assets. This ratio is useful to compare the performance of company with its peers in the same industry. It is an important metric used to evaluate a company's overall efficiency and performance but it's important to keep in mind that high ROA not necessarily mean that company have strong financial position.
+A59: Let's look at example
+A60: Bank has total assets of ₹100 billion and net income of ₹5 billion. To get ROA we divide the net income by total assets.
+A61: ROA = Net Income / Total Assets
+A62: ROA = ₹5 billion / ₹100 billion
+A63: ROA = 0.05 or 5%.
+A64: Bank ROA is 5% For every ₹100 billion of assets, the bank generates ₹5 billion of net income. Higher ROA show that bank is profitable and efficient in utilizing assets. It's important to note this ratio is sensitive to the size of the bank It's better to compare the ROA of a bank with other banks of similar size.
+A65: -=-=-=-=
+A66: 5. Capital Adequacy Ratio
+A67: 1. The Capital Adequacy Ratio helps make sure banks have enough capital to protect depositors money.
+A68: 2. Banks are required to maintain a certain level of Capital Adequacy Ratio as per the regulations set by central bank to ensure that they have sufficient capital to meet the potential losses and continue their operations even in adverse situations.
+A69: 3. It helps maintain the stability of the financial system by ensuring that banks can withstand in unexpected situation.
+A71: Let's look at example
+A72: In India, the Reserve Bank of India (RBI) sets the minimum Capital Adequacy Ratio for banks at 9%. which means that they must hold capital worth at least 9% of their total risk-weighted assets.
+A73: Bank in India with total assets of ₹‎100 billion and risk-weighted assets of ₹‎80 billion must maintain minimum capital of ₹‎7.2 billion (9% of ₹‎80 billion) to meet the Capital Adequacy Ratio requirement set by the RBI.
+A74: It's important to note that, the Banks with a higher Capital Adequacy Ratio are considered to have a better ability to absorb unexpected losses.
+A75: -=-=-=-=
+A76: 6. Gross NPA
+A77: 1. Gross Non Performing Assets (GNPA) is refer to the total value of loans or advances that have been classified as Non Performing Assets. These are loans or advances the borrower has defaulted on repayment or interest for certain time. loan is classified as an NPA if the borrower has not made any payment for period of 90 days or more.
+A78: 2. A high ratio of GNPA to total loans indicates a higher level of credit risk and potentially weaker financial condition for the bank.
+A80: Let's look at example
+A81: Bank has total loans of ₹‎100 billion and ₹‎20 billion are classified Non Performing Assets ( NPA ). The bank Gross Non Performing Assets (GNPA) would be INR 20 billion.
+A82: we see the ratio of GNPA to total loans we get 0.2 (₹‎20 billion / ₹‎100 billion). This ratio of 20% indicates that 20% of the bank loans are classified as NPA . This high ratio may indicate the bank is facing high level of credit risk it could be cause for concern.
+A83: It's important to note that Gross NPA ratio is used in conjunction with other financial indicators to understand overall financial health of bank and single indicator may not enough to make a conclusion.
+A84: -=-=-=-=
+A85: 7. Net NPA
+A86: 1. Any financial security owned by a bank is considered an asset. The interest we pay on loans is the primary source of income for banks these loans are classified as assets for bank's.
+A87: when borrowers can't repay the amount these assets are classified as Non Performing Assets ( NPA ) because they are not generating any income for the bank's.
+A88: 2.If loan provided by bank is overdue more than 90 days from the borrower end comes under NPA . If loan amount is unpaid more than 1 year from due date then it's a doubtful debt and if it’s unpaid more than 3 years then loss of an asset or default account.
+A90: Net Non-Performing Asset = Gross NPA – Provisions.
+A92: Gross NPA = Total Gross NPA /Total Loans given.
+A95: Impact of NPA
+A96: Due to higher NPA rates, banks will suffer significant revenue losses that will potentially affect their brand image. insufficient funds, banks will have to increase the interest rates on loans to maintain their profit margin.
+A98: Let's look at example
+A99: Bank has total loans of ₹100 billion and ₹20 billion are classified as Non Performing Assets ( NPA ). The bank is required to make provisions for ₹10 billion against these NPA . The bank Gross Non-Performing Assets (GNPA) would be ₹20 billion and Net Non Performing Assets (Net NPA ) would be ₹10 billion (₹20 billion - ₹10 billion).
+A100: If we see the ratio of Net NPA to total loans we get 0.1 ( INR 10 billion / INR 100 billion). This ratio of 10% indicates that 10% of the bank's loans classified as NPA after making necessary provisioning. This ratio gives a clearer picture of bank's financial health than just Gross NPA ratio as it takes into account the provisions made against NPA .
+A101: -=-=-=-=
+A102: 8. CASA Ratio
+A103: 1. CASA (Current Account and Saving Account) it is measure the proportion of bank deposits that are in the form of current and savings accounts.
+A104: 2. The ratio is calculated by dividing the total value of current and savings account deposits by the total deposits. It is typically expressed as percentage. Higher CASA ratio indicates that bank have larger proportion of stable deposits. This is because banks can use these deposits to fund their lending activities at a lower cost which improves bank's net interest margin.
+A106: Let's look at example
+A107: Bank has total deposits of ₹200 billion and ₹150 billion in form of current and savings accounts. The bank CASA ratio would be 75%.
+A108: This ratio indicates that three fourth of the bank deposits are in the form of current and savings accounts which are considered the stable form of deposits. This high ratio is considered positive sign. Stable deposits can used to fund lending activities lower cost.
+A109: High CASA ratio the bank will have access to cheaper funding which will improve it's net interest margin. This means that the bank will be able to offer loans at a lower rate of interest. which will make it more competitive in the market and attract more customers. And bank will also have more stable funding which will make it less vulnerable to market fluctuations and interest rate changes.
+A110: Asset quality, capital adequacy play important roles in assessing a bank's overall financial condition.
+A111: -=-=-=-=
+A112: 9. Cost to Income ratio
+A113: 1. Cost to Income Ratio ( CIR ) measure company efficiency by comparing it's operating expenses to it's revenue. calculated by dividing the total operating expenses by the total revenue and expressed in percentage.
+A114: 2. Lower ( CIR ) indicates that company more efficient in managing expenses and able to generate more income for every unit of expenses. while higher ( CIR ) indicates that company less efficient in managing it's expenses and is generating less income for every unit of expenses.
+A116: Let's look at example
+A117: Bank A with a high CIR .
+A118: Bank has total operating expenses of ₹10 billion and total revenue of ₹15 billion. The bank's CIR is 67% (₹10 billion / ₹15 billion). High CIR indicates that the bank is not very efficient in managing its expenses and is generating less income for every unit of expenses. The bank may need to review its cost structure and implement measures to reduce expenses in order to increase its efficiency and profitability.
+A120: Bank B with a low CIR:
+A121: A bank has total operating expenses of ₹5 billion and total revenue of ₹15 billion. The bank CIR is 33% (₹5 billion / ₹15 billion). This low CIR indicates that the bank is efficient in managing its expenses and is able to generate more income for every unit of expenses. The bank able to invest in growth opportunities and increase profitability.
+
+
+===== RBI Event =====
+A1: Review of Last four RBI Event days in 2023
+A2: Apr 6th 2023 (Thrusday) | B2: https://www.tradingview.com/x/6GV0mfbA/ | C2: 9:15 - 9:30 | D2: 10:00 to 10:15 | E2: 10:30 to 12:00 | F2: 12:00 to 12:45 | G2: 12:45 to END | H2: 792 | J2: Comment
+A3: June 8th 2023 (Thrusday) | B3: https://www.tradingview.com/x/du8iLiMl/ | C3: SB | D3: LB | E3: Unwinding / LB | F3: Unwinding / LB | G3: SB | H3: OR | I3: Unwinding / LB | J3: Depends on the Local and Global Cues
+A4: Aug 10th 2023 (Thrusday)  | B4: https://www.tradingview.com/x/wwldp0Rh/ | C4: Buy at lower levels | D4: Give a 200 points candle | E4: Sideways / Trap | F4: Sideways / Trap | G4: Take it lower  | H4: 805
+A5: Oct 6th 2023 (Friday)
+A7: Apr 6th 2023 Expiry
+A50: Future Build up
+A90: Trending OI
+A125: June 8th 2023 (Thrusyday)
+A168: Trending OI
+A210: Aug 10th (Thrusday) 2023
+A254: Future OI
+A292: Trending OI
+
+
+===== Value Investing =====
+A1: FUNDEMANTAL ANALYSIS
+A2: PE Ratio | B2: Price to Earnings ratio = Price / Earnings = PE Ratio. Less the better. However, more PE ratio means. Expectation is high from the company
+A3: PB Ratio | B3: Price to Book Value = Price / Book Value = PB Ratio. Less the better
+A4: Debt to Equity Ratio | B4: Debt / Equity = Debt to Equity Ratio. Company raise capex with these two options. Debt to equity ration should be less.
+1) Take loan from banks
+2) Take loan from equity
+A5: Current Ratio | B5: Current Assets / Current Liability = Current Ratio. More the better. More assets is always better for the company.
+A9: BALANCE SHEET

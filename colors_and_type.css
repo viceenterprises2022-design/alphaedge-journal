@@ -1,0 +1,243 @@
+/* =====================================================================
+   AI TRADING JOURNAL — Design System
+   Typography + Color tokens
+   Pulled directly from src/app/globals.css + tailwind.config.ts
+   ===================================================================== */
+
+:root {
+    /* ---------- Palette: neutrals (warm off-white system) ---------- */
+    --primary:       #fbfaf9;   /* page bg, most surfaces */
+    --darkPrimary:   #e8e7e5;   /* app chrome, hover, rails */
+    --secondary:     #f4f1ee;   /* soft card bg, parallax frames */
+    --tertiary:      #6e747c;   /* muted text */
+
+    --ink:           #3d3929;   /* body text (from body { color } ) */
+    --ink-soft:      #4a4340;   /* secondary text inside buttons */
+    --ink-deep:      #1a1a1a;   /* CTA block / footer hero */
+    --ink-gradient-from: #27272a; /* zinc-800 */
+    --ink-gradient-via:  #52525b; /* zinc-600 */
+    --ink-gradient-to:   #09090b; /* zinc-950 */
+
+    /* ---------- Palette: brand accent (Claude orange) ---------- */
+    --claude:            #da7756;
+    --claudeBackground:  rgba(218, 119, 86, 0.1);
+
+    /* ---------- Palette: semantic (trade PnL) ---------- */
+    --buy:            #76b562;
+    --buyOpacity:     rgba(118, 181, 98, 0.4);
+    --buyLight:       rgba(118, 181, 98, 0.2);
+
+    --sell:           #e96a5e;
+    --sellOpacity:    rgba(233, 106, 94, 0.4);
+    --sellLight:      rgba(233, 106, 94, 0.2);
+
+    /* ---------- Palette: data / chart accents ---------- */
+    --customBlue:     #9999ff;
+    --customOrange:   #e16540;
+    --customYellow:   #fac666;
+
+    /* ---------- Strategy-rule priority chips ---------- */
+    --priority-high-dot:    #f43f5e;   /* rose-500 */
+    --priority-medium-dot:  #f59e0b;   /* amber-500 */
+    --priority-low-dot:     #10b981;   /* emerald-500 */
+
+    /* ---------- Shadows (brand-specific, warm) ---------- */
+    --shadow-color: rgba(30, 45, 82, 0.06);
+
+    /* Black "ink" button — multi-layer for depth */
+    --shadow-button-black:
+        rgba(45, 32, 17, 0.12) 0 0.5px 0.5px 0,
+        rgba(45, 32, 17, 0.24) 0 1px 2px 0,
+        rgba(45, 32, 17, 0.32) 0 2px 4px 0,
+        rgba(45, 32, 17, 0.40) 0 6px 12px -3px,
+        #000 0 -0.2px 0 0 inset;
+
+    /* White "paper" button — soft embossed */
+    --shadow-button-white:
+        0 0 0 1px #efede8,
+        0 1px 2px #b2aa9e52,
+        0 3px 3px #d1cdc73d,
+        0 -2px #f0f0efb3 inset;
+
+    /* Calendar day cells — hairline edge shadow */
+    --shadow-calendar-banner:
+        var(--shadow-color) 0 0 0.4px 0.4px,
+        rgba(30, 45, 82, 0.2) 0.4px 0.4px 0.4px 0;
+
+    /* Switch — saddle-leather style (brown-tinted) */
+    --shadow-switch:
+        0 0 0 1px #70451a3d,
+        0 1px 2px #70451a0d,
+        2px 3px 5px #70451a29,
+        4px 6px 5px #70451a14,
+        8px 12px 8px #70451a14,
+        8px 0 0.5px #70451a33 inset,
+        10px 0 4px -6px #70451a33 inset;
+
+    /* ---------- Radius scale ---------- */
+    --radius:     0.5rem;       /* shadcn base (8px) */
+    --radius-sm:  calc(var(--radius) - 4px); /* 4px  */
+    --radius-md:  calc(var(--radius) - 2px); /* 6px  */
+    --radius-lg:  var(--radius);              /* 8px  */
+    --radius-xl:  0.75rem;      /* 12px — cards */
+    --radius-2xl: 1rem;         /* 16px — nav */
+    --radius-3xl: 1.5rem;       /* 24px — app chrome */
+    --radius-40:  2.5rem;       /* CTA hero block */
+    --radius-pill: 9999px;
+
+    /* ---------- Gradient presets ---------- */
+    --grad-chart-hero: linear-gradient(180deg,
+        rgba(49, 45, 43, 0.9) 0%,
+        rgba(32, 30, 29, 0.9) 100%), #000;
+
+    --grad-ink-text: linear-gradient(to bottom right,
+        var(--ink-gradient-from),
+        var(--ink-gradient-via),
+        var(--ink-gradient-to));
+
+    --grad-orange-text: linear-gradient(to right,
+        rgb(253, 90, 36),
+        rgb(253, 90, 36),
+        rgb(255, 183, 58));
+
+    --grad-mark-bg: linear-gradient(to right,
+        rgba(253, 90, 36, 0.6),
+        rgba(253, 90, 36, 0.8),
+        rgba(255, 183, 58, 0.6));
+
+    /* ---------- Motion ---------- */
+    --ease-out-swift:   cubic-bezier(0.6, 0.6, 0, 1);
+    --ease-out-luxe:    cubic-bezier(0.22, 1, 0.36, 1);
+    --dur-xs:  120ms;
+    --dur-sm:  200ms;
+    --dur-md:  450ms;
+    --dur-lg:  700ms;
+
+    /* ---------- Typography tokens ----------
+       Native app stack: Arial/Helvetica (actual codebase).
+       Claude-branded sibling uses "claude" tokens (serif/mono).
+       We ship a clean "display" token too for marketing hero. */
+    --font-sans:     Arial, Helvetica, "Helvetica Neue", sans-serif;
+    --font-display:  "Geist", "Inter", var(--font-sans);
+    --font-mono:     "JetBrains Mono", "Geist Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+
+    /* Base body: 14px / 1.5 — codebase uses body { font-size: 14px } */
+    --fs-xs:   0.7rem;     /* 11.2px  — chip, hint text */
+    --fs-sm:   0.8rem;     /* 12.8px  — <p> default */
+    --fs-base: 0.875rem;   /* 14px    — body */
+    --fs-md:   0.9rem;     /* 14.4px  — sub-lead */
+    --fs-lg:   1rem;       /* 16px    — nav, section sub */
+    --fs-xl:   1.25rem;    /* 20px    — card title */
+    --fs-2xl:  1.5rem;     /* 24px    — section title */
+    --fs-3xl:  2rem;       /* 32px    — H1 mobile, H2 desktop */
+    --fs-4xl:  3rem;       /* 48px    — H1 desktop, cta title */
+    --fs-5xl:  4rem;       /* 64px    — big stat */
+    --fs-6xl:  6rem;       /* 96px    — hero "AlphaEdge Journal" */
+
+    --fw-light:    300;
+    --fw-normal:   400;
+    --fw-medium:   500;
+    --fw-semibold: 600;
+    --fw-bold:     700;
+
+    --lh-tight:  1.05;
+    --lh-snug:   1.25;
+    --lh-normal: 1.5;
+    --lh-relaxed:1.75;
+}
+
+/* =====================================================================
+   Semantic element styles
+   ===================================================================== */
+html, body {
+    font-family: var(--font-sans);
+    color: var(--ink);
+    background: var(--primary);
+    font-size: 14px;
+    line-height: var(--lh-normal);
+    -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+    font-family: var(--font-display);
+    font-size: clamp(var(--fs-3xl), 6vw, var(--fs-4xl));
+    font-weight: var(--fw-semibold);
+    line-height: var(--lh-snug);
+    letter-spacing: -0.01em;
+    color: var(--ink);
+}
+
+h2 {
+    font-family: var(--font-display);
+    font-size: clamp(var(--fs-2xl), 4vw, var(--fs-3xl));
+    font-weight: var(--fw-semibold);
+    line-height: var(--lh-snug);
+    letter-spacing: -0.005em;
+}
+
+h3 {
+    font-family: var(--font-display);
+    font-size: var(--fs-xl);
+    font-weight: var(--fw-semibold);
+    line-height: var(--lh-snug);
+}
+
+p {
+    font-size: var(--fs-sm);
+    line-height: var(--lh-normal);
+    color: var(--ink);
+}
+
+small, .hint {
+    font-size: var(--fs-xs);
+    color: var(--tertiary);
+}
+
+code, pre, .mono, .numeric {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+}
+
+/* Signature display treatment — gradient "main-text" used across
+   the marketing site for big hero titles. */
+.display-gradient {
+    background: var(--grad-ink-text);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: var(--fw-bold);
+}
+
+/* Section eyebrow chip: "Charts", "Calendar", "Reviews" */
+.eyebrow {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid #e4e4e7;    /* zinc-200 */
+    padding: 0.25rem 0.5rem;
+    border-radius: var(--radius-md);
+    font-size: var(--fs-xs);
+    box-shadow: 0 1px 2px rgba(0,0,0,0.06), 0 1px 3px rgba(0,0,0,0.06);
+    background: var(--primary);
+    color: var(--ink);
+}
+
+/* Tiny live dot — used on "Join for free today" + status indicators */
+.live-dot {
+    position: relative;
+    display: inline-flex;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background: #22c55e; /* green-500 */
+}
+.live-dot::before {
+    content: '';
+    position: absolute; inset: 0;
+    border-radius: inherit;
+    background: #4ade80; /* green-400 */
+    opacity: 0.75;
+    animation: liveDotPing 1.2s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+@keyframes liveDotPing {
+    75%, 100% { transform: scale(2); opacity: 0; }
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><link rel="stylesheet" href="card-base.css"><style>
+.day-grid { display:grid; grid-template-columns: repeat(7, 1fr); gap:2px; background:#fff; border-radius:10px; overflow:hidden; border:1px solid #e4e4e7; }
+.day { aspect-ratio:1.6/1; border:0.5px solid #e4e4e7; position:relative; padding:6px; font-size:11px; display:flex; flex-direction:column; align-items:center; }
+.buy { background: rgba(118,181,98,0.2); }
+.sell { background: rgba(233,106,94,0.2); }
+.zero { background: #f4f4f5; }
+.pnl { margin-top:auto; font-family:Geist Mono,monospace; font-size:10px; padding:1px 6px; border-radius:999px; box-shadow: rgba(30,45,82,0.06) 0 0 0.4px 0.4px, rgba(30,45,82,0.2) 0.4px 0.4px 0.4px 0; }
+.pnl-buy { background: rgba(118,181,98,0.4); }
+.pnl-sell { background: rgba(233,106,94,0.4); }
+.today { background:#e9d5ff; border-radius:999px; width:22px; height:22px; display:flex; align-items:center; justify-content:center; }
+</style></head><body><div class="card" style="padding:18px">
+<div class="day-grid">
+  <div class="day">M</div><div class="day">T</div><div class="day">W</div><div class="day">T</div><div class="day">F</div><div class="day">S</div><div class="day">S</div>
+  <div class="day buy"><span>3</span><span class="pnl pnl-buy">+420</span></div>
+  <div class="day sell"><span>4</span><span class="pnl pnl-sell">-180</span></div>
+  <div class="day"><span>5</span></div>
+  <div class="day buy"><span>6</span><span class="pnl pnl-buy">+1.240</span></div>
+  <div class="day"><span>7</span></div>
+  <div class="day zero"><span>8</span><span class="pnl" style="background:#e4e4e7">0</span></div>
+  <div class="day"><span class="today">9</span></div>
+</div>
+</div></body></html>
