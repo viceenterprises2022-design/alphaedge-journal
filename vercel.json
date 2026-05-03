@@ -1,6 +1,8 @@
 {
+  "cleanUrls": true,
   "rewrites": [
-    { "source": "/app", "destination": "/ui_kits/app/index.html" },
-    { "source": "/marketing", "destination": "/ui_kits/marketing/index.html" }
+    { "source": "/", "destination": "/ui_kits/app/index.html" },
+    { "source": "/marketing", "destination": "/ui_kits/marketing/index.html" },
+    { "source": "/design-system", "destination": "/README.md" }
   ]
 }

@@ -1,48 +1,124 @@
-// TradeAI.jsx — AI report chat-style view
-const TradeAIView = () => (
-  <div className="max-w-3xl mx-auto">
-    <div className="flex items-baseline justify-between mb-6">
-      <div>
-        <h1 className="font-display text-[28px] font-semibold flex items-center gap-2">Trade AI <ClaudeMark size={24}/></h1>
-        <div className="text-[12px] text-zinc-500 mt-1">Your personal trading analyst · Powered by Claude</div>
+// TradeAI.jsx — chat with Claude using real trade data as context
+const TradeAIView = () => {
+  const trades = window.useTrades();
+  const { all: allStrategies } = window.useStrategies();
+  const [messages, setMessages] = React.useState([]);
+  const [input, setInput] = React.useState('');
+  const [busy, setBusy] = React.useState(false);
+  const scrollRef = React.useRef(null);
+
+  React.useEffect(() => {
+    if (scrollRef.current) scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
+  }, [messages, busy]);
+
+  const buildContext = () => {
+    if (trades.length === 0) return 'The user has not logged any trades yet.';
+    const wins = trades.filter(t => (t.pnl||0) > 0);
+    const losses = trades.filter(t => (t.pnl||0) < 0);
+    const net = trades.reduce((a,t)=>a+(t.pnl||0),0);
+    const stratName = (id) => allStrategies.find(s => s.id === id)?.name || 'No strategy';
+    const recent = trades.slice(0, 30).map(t => ({
+      date: new Date(t.loggedAt).toISOString().slice(0,10),
+      time: new Date(t.loggedAt).toTimeString().slice(0,5),
+      symbol: t.symbol,
+      direction: t.direction,
+      qty: t.qty,
+      entry: t.entry,
+      exit: t.exit,
+      pnl: t.pnl,
+      strategy: stratName(t.strategyId),
+      mistakes: Object.keys(t.mistakes||{}).filter(k => t.mistakes[k]).map(k => window.BibleData.mistakes[parseInt(k)]).filter(Boolean),
+      rulesFollowed: Object.values(t.rulesFollowed||{}).filter(v=>v===true).length,
+      rulesBroken: Object.values(t.rulesFollowed||{}).filter(v=>v===false).length,
+      learning: t.learning || null,
+    }));
+    return `User's trade journal summary:
+- Total trades: ${trades.length} (${wins.length} winners, ${losses.length} losers)
+- Net P/L: ${window.fmtMoney(net,{signed:true})}
+- Win rate: ${(wins.length/trades.length*100).toFixed(1)}%
+
+Most recent trades (up to 30):
+${JSON.stringify(recent, null, 2)}`;
+  };
+
+  const send = async (q) => {
+    const question = (q || input).trim();
+    if (!question || busy) return;
+    setMessages(m => [...m, { role: 'user', content: question }]);
+    setInput('');
+    setBusy(true);
+    try {
+      const ctx = buildContext();
+      const reply = await window.claude.complete({
+        messages: [{
+          role: 'user',
+          content: `You are AlphaEdge, a personal trading analyst. Be concise, specific, and reference the actual numbers. Use plain text (no markdown headers). Format money with the user's currency symbol.\n\n${ctx}\n\nUser question: ${question}`
+        }]
+      });
+      setMessages(m => [...m, { role: 'assistant', content: reply }]);
+    } catch (err) {
+      setMessages(m => [...m, { role: 'assistant', content: 'Sorry, I had trouble reaching Claude. Please try again.' }]);
+    } finally {
+      setBusy(false);
+    }
+  };
+
+  const suggestions = trades.length === 0
+    ? ['How should I structure my journal?', 'What makes a good trading strategy?', 'How do I find my edge?']
+    : ['Which strategy is pulling most of my P/L?', 'What is my worst recurring mistake?', 'When should I trade — what hour is best?'];
+
+  return (
+    <div className="max-w-3xl mx-auto flex flex-col h-[calc(100vh-160px)]">
+      <div className="flex items-baseline justify-between mb-6">
+        <div>
+          <h1 className="font-display text-[28px] font-semibold flex items-center gap-2">Trade AI <ClaudeMark size={24}/></h1>
+          <div className="text-[12px] text-zinc-500 mt-1">Your personal trading analyst · Powered by Claude · {trades.length} trade{trades.length!==1?'s':''} in context</div>
+        </div>
+        {messages.length > 0 && <button onClick={()=>setMessages([])} className="button-shadow-white rounded-md px-3 py-1.5 text-[12px]">New report</button>}
       </div>
-      <button className="button-shadow-white rounded-md px-3 py-1.5 text-[12px]">New report</button>
-    </div>
-    <div className="space-y-6 leading-7 text-[14px]">
-      <p className="text-zinc-700"><span className="font-semibold">Summary.</span> Over the last 30 days you closed 64 trades — 42 winners, 22 losers. Net P/L: <span className="font-mono-display text-buy">+3.140,80 €</span>. Your win rate (65,6%) is healthy, but almost all your edge comes from a single strategy and session.</p>
-      <div className="flex justify-end">
-        <div className="bg-darkPrimary rounded-full py-2.5 px-5 max-w-[70%]">
-          <p className="text-[13px] text-zinc-700">Which strategy is pulling most of the P/L?</p>
+
+      <div ref={scrollRef} className="flex-1 overflow-y-auto pr-2 space-y-5 leading-7 text-[14px]">
+        {messages.length === 0 && (
+          <div className="text-center py-10">
+            <div className="font-display text-[18px] mb-2">Ask anything about your trades</div>
+            <div className="text-[13px] text-zinc-500 mb-6 max-w-md mx-auto">
+              {trades.length === 0 ? "Once you log trades, I'll analyse them for you." : "I have access to all your logged trades, strategies, and tagged mistakes."}
+            </div>
+            <div className="flex flex-wrap gap-2 justify-center">
+              {suggestions.map(s => (
+                <button key={s} onClick={()=>send(s)} className="bg-white border border-zinc-200 rounded-full px-3 py-1.5 text-[12px] hover:border-claude/40 hover:bg-claude/5">{s}</button>
+              ))}
+            </div>
+          </div>
+        )}
+        {messages.map((m,i) => (
+          m.role === 'user' ? (
+            <div key={i} className="flex justify-end">
+              <div className="bg-darkPrimary rounded-2xl py-2.5 px-5 max-w-[70%]">
+                <p className="text-[13px] text-zinc-700">{m.content}</p>
+              </div>
+            </div>
+          ) : (
+            <div key={i} className="text-zinc-700 whitespace-pre-wrap">{m.content}</div>
+          )
+        ))}
+        {busy && (
+          <div className="flex gap-1.5 pt-2">
+            <span className="dot" style={{animationDelay:'0s'}}></span>
+            <span className="dot" style={{animationDelay:'0.2s'}}></span>
+            <span className="dot" style={{animationDelay:'0.4s'}}></span>
+          </div>
+        )}
+      </div>
+
+      <div className="mt-4">
+        <div className="bg-white rounded-2xl border border-zinc-200 p-3 shadow-md flex items-center gap-2">
+          <input value={input} onChange={e=>setInput(e.target.value)} onKeyDown={e=>e.key==='Enter'&&send()}
+            placeholder="Ask a follow-up question…" className="flex-1 bg-transparent outline-none text-[13px] px-3"/>
+          <button onClick={()=>send()} disabled={busy||!input.trim()} className="button-shadow rounded-lg px-3 py-2 text-primary disabled:opacity-40"><ArrowRight size={14}/></button>
         </div>
       </div>
-      <div>
-        <p className="text-zinc-700">Opening Range Breakout accounts for <span className="font-semibold">71%</span> of gross profit across just <span className="font-semibold">38%</span> of trades. VWAP Reversion is flat to slightly negative this month — win rate held, but your average loser grew 22%.</p>
-        <div className="bg-secondary rounded-xl p-4 mt-3 border border-zinc-200/60">
-          <div className="text-[10px] uppercase tracking-widest text-zinc-500 font-mono-display mb-2">Observation</div>
-          <p className="text-[13px] text-zinc-700">Losers in VWAP Reversion cluster in the 13:00–15:00 window, after the London close. Consider restricting the strategy to 09:30–12:00 NY or paper-trading the afternoon setup for two weeks.</p>
-        </div>
-      </div>
-      <div className="flex justify-end">
-        <div className="bg-darkPrimary rounded-full py-2.5 px-5 max-w-[70%]">
-          <p className="text-[13px] text-zinc-700">What about my worst day?</p>
-        </div>
-      </div>
-      <div>
-        <p className="text-zinc-700">March 11 was your worst day this month: <span className="font-mono-display text-sell">-420,00 €</span> across 5 trades, all in the News Fade strategy following the CPI release. Three of five entries violated your "Setup confirmed by a 5-min close" rule.</p>
-      </div>
-      <div className="flex gap-1.5 pt-4">
-        <span className="dot" style={{animationDelay:'0s'}}></span>
-        <span className="dot" style={{animationDelay:'0.2s'}}></span>
-        <span className="dot" style={{animationDelay:'0.4s'}}></span>
-      </div>
     </div>
-    {/* composer */}
-    <div className="sticky bottom-4 mt-8">
-      <div className="bg-white rounded-2xl border border-zinc-200 p-3 shadow-md flex items-center gap-2">
-        <input placeholder="Ask a follow-up question…" className="flex-1 bg-transparent outline-none text-[13px] px-3"/>
-        <button className="button-shadow rounded-lg px-3 py-2 text-primary"><ArrowRight size={14}/></button>
-      </div>
-    </div>
-  </div>
-);
+  );
+};
 window.TradeAIView = TradeAIView;

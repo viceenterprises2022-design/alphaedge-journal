@@ -4,12 +4,13 @@ const AppKit = () => {
   React.useEffect(() => { localStorage.setItem('tj-page', activePage); }, [activePage]);
   const views = {
     calendar: <CalendarView/>,
-    history: <div className="text-zinc-400 text-sm italic">Trade history view — follows the same calendar-banner-shadow table pattern. (Placeholder)</div>,
+    history: <HistoryView/>,
     statistics: <StatisticsView/>,
     'trade-ai': <TradeAIView/>,
     playbook: <PlaybookView/>,
     strategies: <StrategiesView/>,
     journal: <JournalView/>,
+    settings: <SettingsView/>,
   };
   return (
     <>
@@ -18,6 +19,7 @@ const AppKit = () => {
       </Shell>
       <TradeDialog/>
       <StrategyEditor/>
+      <ToastHost/>
     </>
   );
 };
